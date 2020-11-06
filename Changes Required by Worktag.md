@@ -40,10 +40,13 @@ Current issues preventing closing:
 	* $1,201.25 (Malcolm Williamson - Salary)
 	* $318.69 (Malcolm Williamson - Fringe)
 	* $744.77 (Malcolm Williamson - IDC)
-* August actual spend is $10,438.58
+
+PAAs needed of August:
+* John Wilson Salary -- $2,116.63 on GR007979 NHAP MS/AL
 
 ### September
-* charges are correct
+PAAs needed for September:
+* $1,999.00 on GR007979 NHAP MS/AL
 
 Once these issues are resolved the total spend for July - September should be $42,713.31
 
@@ -97,6 +100,7 @@ PAAs needed:
 	* Chris Angel Salary - $3,258.33 to GR008003 NIJ Fed Terrorism (from GR013045 Sandia)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzI4MjAxMjEsLTc2MjAwNjk4MywtMj
-AzNzI5Njg4MCwxNTIxMDAzNzk3LDE0NDkxMDExMzddfQ==
+eyJoaXN0b3J5IjpbMTg3NDA1NzM5NCwtMTYzMjgyMDEyMSwtNz
+YyMDA2OTgzLC0yMDM3Mjk2ODgwLDE1MjEwMDM3OTcsMTQ0OTEw
+MTEzN119
 -->
