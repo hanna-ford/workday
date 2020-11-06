@@ -82,7 +82,7 @@ This should balance the account.
 
 
 ## GR013045 // Sandia // Photogrammetry Services
----
+
 Ends: December 31, 2020
 
 Current issues:
@@ -102,7 +102,8 @@ PAAs needed:
 	* Chris Angel Salary - $3,258.33 to GR008003 NIJ Fed Terrorism (from GR013045 Sandia)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDE2MTk3NDcsODEwNjcyNzQyLC0xNj
-MyODIwMTIxLC03NjIwMDY5ODMsLTIwMzcyOTY4ODAsLTMyNjI4
-NDgwMCwxNTIxMDAzNzk3LDE0NDkxMDExMzddfQ==
+eyJoaXN0b3J5IjpbNzg5MTYwNzc2LC0xNDAxNjE5NzQ3LDgxMD
+Y3Mjc0MiwtMTYzMjgyMDEyMSwtNzYyMDA2OTgzLC0yMDM3Mjk2
+ODgwLC0zMjYyODQ4MDAsMTUyMTAwMzc5NywxNDQ5MTAxMTM3XX
+0=
 -->
