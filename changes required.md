@@ -87,10 +87,14 @@ Current issues:
 	* An additional $45.64 should be charged to IDC; Trickle down impact to IDC from fringe (Seth Warn)
 
 ### August
-* * PAAs needed
-	* 
+* PAAs needed
+	* Seth Warn Salary - $1,080.08 to GR013045 Sandia (from GR007994)
+	* Jackson Cothren Salary - $2,899.36 to GR013045 Sandia (from PG002926)
+
+### September
+* 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NDM1NDgyLDE1MjEwMDM3OTcsMTQ0OT
-EwMTEzN119
+eyJoaXN0b3J5IjpbLTIwMTg0NDkyNTAsMTUyMTAwMzc5NywxND
+Q5MTAxMTM3XX0=
 -->
