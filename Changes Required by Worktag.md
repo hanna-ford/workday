@@ -43,12 +43,14 @@ Current issues preventing closing:
 
 PAAs needed of August:
 * John Wilson Salary -- $2,116.63 on GR007979 NHAP MS/AL
+* Malcolm Williamson Salary -- $1,201.25 on GR007979 NHAP MS/AL
 
 ### September
 PAAs needed for September:
 * $1,999.00 on GR007979 NHAP MS/AL
 
-Once these issues are resolved the total spend for July - September should be $42,713.31
+
+This should balance the account.
 
 
 ## GR003636 // SPARC (prev)
@@ -100,7 +102,7 @@ PAAs needed:
 	* Chris Angel Salary - $3,258.33 to GR008003 NIJ Fed Terrorism (from GR013045 Sandia)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NDA1NzM5NCwtMTYzMjgyMDEyMSwtNz
-YyMDA2OTgzLC0yMDM3Mjk2ODgwLDE1MjEwMDM3OTcsMTQ0OTEw
-MTEzN119
+eyJoaXN0b3J5IjpbODEwNjcyNzQyLC0xNjMyODIwMTIxLC03Nj
+IwMDY5ODMsLTIwMzcyOTY4ODAsMTUyMTAwMzc5NywxNDQ5MTAx
+MTM3XX0=
 -->
