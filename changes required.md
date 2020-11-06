@@ -57,7 +57,7 @@ This should balance the account.
 ---
 Ended: August 31, 2020
 
-Current issues reenting cloing
+Current issues preventing closing:
 
 ### July
 * Charges mis-categorized due to missing Object Class:
@@ -102,7 +102,7 @@ PAAs needed:
 	* Chris Angel Salary - $3,258.33 to GR008003 NIJ Fed Terrorism (from GR013045 Sandia)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEwNjcyNzQyLC0xNjMyODIwMTIxLC03Nj
-IwMDY5ODMsLTIwMzcyOTY4ODAsLTMyNjI4NDgwMCwxNTIxMDAz
-Nzk3LDE0NDkxMDExMzddfQ==
+eyJoaXN0b3J5IjpbLTE0MDE2MTk3NDcsODEwNjcyNzQyLC0xNj
+MyODIwMTIxLC03NjIwMDY5ODMsLTIwMzcyOTY4ODAsLTMyNjI4
+NDgwMCwxNTIxMDAzNzk3LDE0NDkxMDExMzddfQ==
 -->
