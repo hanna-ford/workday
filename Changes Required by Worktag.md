@@ -79,7 +79,13 @@ This should balance the account.
 ---
 Ends: December 31, 2020
 
-Current issues preventing closing:
+Current issues:
+
+### July
+* Fringes mis-calculated:
+	* An additional $91.30 should be charged to fringes
+	* An additional $45.64 should be charged to IDC; Trickle down impact to IDC f
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMTAwMzc5NywxNDQ5MTAxMTM3XX0=
+eyJoaXN0b3J5IjpbLTE3OTkwMzYyMzMsMTUyMTAwMzc5NywxND
+Q5MTAxMTM3XX0=
 -->
