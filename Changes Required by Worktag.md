@@ -75,7 +75,11 @@ debit $328.26 from GR003636; credit to GR003590
 
 This should balance the account.
 
+## GR013045 // Sandia // Photogrammetry Services
+---
+Ends: December 31, 2020
 
+Current issues preventing closing:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0OTEwMTEzN119
+eyJoaXN0b3J5IjpbMTUyMTAwMzc5NywxNDQ5MTAxMTM3XX0=
 -->
