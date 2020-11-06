@@ -87,16 +87,15 @@ Current issues:
 	* An additional $45.64 should be charged to IDC; Trickle down impact to IDC from fringe (Seth Warn)
 
 ### August
-* PAAs need* Fringes mis-calculated:
+* PAAs needed:
 	* Seth Warn Salary - $1,080.08 to GR013045 Sandia (from GR007994)
 	* Jackson Cothren Salary - $2,899.36 to GR013045 Sandia (from PG002926)
 
 ### September
-* An additional $286.55 should be charged to fringes
-	* An additional $45.64 should be charged to IDC; Trickle down impact to IDC from fringePAAs needed
+PAAs needed:
 	* Chris Angel Salary - $3,258.33 to GR008003 NIJ Fed Terrorism (from GR013045 Sandia)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzcyOTY4ODAsMTUyMTAwMzc5NywxND
-Q5MTAxMTM3XX0=
+eyJoaXN0b3J5IjpbLTc2MjAwNjk4MywtMjAzNzI5Njg4MCwxNT
+IxMDAzNzk3LDE0NDkxMDExMzddfQ==
 -->
