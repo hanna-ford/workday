@@ -27,7 +27,6 @@ Current issues preventing closing:
 	* $592.50 (Victoria Burton - Salary) not listed under SC0193 Extra Help
 	* $34.60 (Victoria Burton - Fringe) not listed under SC0423 Fringe Rate Expense
 	* $307.28 (Victoria Burton - IDC) not calculated because S+F have no Object Class
-* July actual spend is $23,540.79
 
 ### August
 * Charges mis-categorized due to missing Object Class:
@@ -43,7 +42,7 @@ Current issues preventing closing:
 
 ### September
 * PAAs needed for September:
-	* $1,999.00 on GR007979 NHAP MS/AL
+	* John Wilson Salary -- $1,999.00 on GR007979 NHAP MS/AL
 
 This should balance the account.
 
@@ -97,7 +96,7 @@ PAAs needed:
 	* Chris Angel Salary - $3,258.33 to GR008003 NIJ Fed Terrorism (from GR013045 Sandia)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyODkxNjA4Miw3ODkxNjA3NzYsLTE0MD
+eyJoaXN0b3J5IjpbLTEwMTM1MDM2MSw3ODkxNjA3NzYsLTE0MD
 E2MTk3NDcsODEwNjcyNzQyLC0xNjMyODIwMTIxLC03NjIwMDY5
 ODMsLTIwMzcyOTY4ODAsMTUyMTAwMzc5NywxNDQ5MTAxMTM3XX
 0=
