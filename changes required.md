@@ -52,7 +52,7 @@ Once these issues are resolved the total spend for July - September should be $4
 ---
 Ended: August 31, 2020
 
-Current issues preventing closing:
+Current issues reenting cloing
 
 ### July
 * Charges mis-categorized due to missing Object Class:
@@ -87,14 +87,15 @@ Current issues:
 	* An additional $45.64 should be charged to IDC; Trickle down impact to IDC from fringe (Seth Warn)
 
 ### August
-* PAAs needed
+* PAAs need* Fringes mis-calculated:
 	* Seth Warn Salary - $1,080.08 to GR013045 Sandia (from GR007994)
 	* Jackson Cothren Salary - $2,899.36 to GR013045 Sandia (from PG002926)
 
 ### September
-* 
+* An additional $286.55 should be charged to fringes
+	* An additional $45.64 should be charged to IDC; Trickle down impact to IDC from fringe
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTg0NDkyNTAsMTUyMTAwMzc5NywxND
-Q5MTAxMTM3XX0=
+eyJoaXN0b3J5IjpbLTMyNjI4NDgwMCwtMjAxODQ0OTI1MCwxNT
+IxMDAzNzk3LDE0NDkxMDExMzddfQ==
 -->
