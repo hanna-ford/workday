@@ -36,19 +36,14 @@ Current issues preventing closing:
 	* $1,138.58 (Vance Green - Fringe) not listed under SC0423 Fringe Rate Expense  because S+F have no Object Class and re-calculated so that fringe is also applied to various leave types; current charge is only $704.76
 	* $3.07 (Victoria Burton - Fringe) not listed under SC0423 Fringe Rate Expense because S+F have no Object Class
 	* IDC is incorrect, after all corrections and PAAs should be a total of $3,432.82
-* Charges that need to be applied by PAA
-	* $1,201.25 (Malcolm Williamson - Salary)
-	* $318.69 (Malcolm Williamson - Fringe)
-	* $744.77 (Malcolm Williamson - IDC)
 
-PAAs needed of August:
-* John Wilson Salary -- $2,116.63 on GR007979 NHAP MS/AL
-* Malcolm Williamson Salary -- $1,201.25 on GR007979 NHAP MS/AL
+* PAAs needed of August:
+	* John Wilson Salary -- $2,116.63 on GR007979 NHAP MS/AL
+	* Malcolm Williamson Salary -- $1,201.25 on GR007979 NHAP MS/AL
 
 ### September
-PAAs needed for September:
-* $1,999.00 on GR007979 NHAP MS/AL
-
+* PAAs needed for September:
+	* $1,999.00 on GR007979 NHAP MS/AL
 
 This should balance the account.
 
@@ -102,7 +97,8 @@ PAAs needed:
 	* Chris Angel Salary - $3,258.33 to GR008003 NIJ Fed Terrorism (from GR013045 Sandia)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg5MTYwNzc2LC0xNDAxNjE5NzQ3LDgxMD
-Y3Mjc0MiwtMTYzMjgyMDEyMSwtNzYyMDA2OTgzLC0yMDM3Mjk2
-ODgwLDE1MjEwMDM3OTcsMTQ0OTEwMTEzN119
+eyJoaXN0b3J5IjpbLTIyODkxNjA4Miw3ODkxNjA3NzYsLTE0MD
+E2MTk3NDcsODEwNjcyNzQyLC0xNjMyODIwMTIxLC03NjIwMDY5
+ODMsLTIwMzcyOTY4ODAsMTUyMTAwMzc5NywxNDQ5MTAxMTM3XX
+0=
 -->
