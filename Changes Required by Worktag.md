@@ -84,8 +84,14 @@ Current issues:
 ### July
 * Fringes mis-calculated:
 	* An additional $91.30 should be charged to fringes
-	* An additional $45.64 should be charged to IDC; Trickle down impact to IDC f
+	* An additional $45.64 should be charged to IDC; Trickle down impact to IDC from fringe
+
+### August
+* * Fringes mis-calculated:
+	* An additional $286.55 should be charged to fringes
+	* An additional $45.64 should be charged to IDC; Trickle down impact to IDC from fringe
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTkwMzYyMzMsMTUyMTAwMzc5NywxND
-Q5MTAxMTM3XX0=
+eyJoaXN0b3J5IjpbMTY4MzUwNzk2NiwxNTIxMDAzNzk3LDE0ND
+kxMDExMzddfQ==
 -->
