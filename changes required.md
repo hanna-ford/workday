@@ -94,9 +94,9 @@ Current issues:
 ### September
 * An additional $286.55 should be charged to fringes
 	* An additional $45.64 should be charged to IDC; Trickle down impact to IDC from fringePAAs needed
-	* Chris Angel Salary - 
+	* Chris Angel Salary - $3,258.33 to GR008003 NIJ Fed Terrorism (from GR013045 Sandia)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNjA1NzI2MywtMzI2Mjg0ODAwLDE1Mj
-EwMDM3OTcsMTQ0OTEwMTEzN119
+eyJoaXN0b3J5IjpbLTIwMzcyOTY4ODAsLTMyNjI4NDgwMCwxNT
+IxMDAzNzk3LDE0NDkxMDExMzddfQ==
 -->
