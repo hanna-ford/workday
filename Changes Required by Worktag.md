@@ -3,7 +3,6 @@
 
 ## GR012016 // ORNL FMV
 ---
-
 Ended: July 31, 2020
 
 Current issues preventing closing:
@@ -32,7 +31,7 @@ Current issues preventing closing:
 * Charges mis-categorized due to missing Object Class:
 	* $4,291.67 (Vance Green - Salary) not listed under SC0192 Regular Salaries because S+F have no Object Class
 	* $52.50 (Victoria Burton - Extra Help Wages) not listed under SC0193 Extra Help because S+F have no Object Class
-	* $1,138.58 (Vance Green - Fringe) not listed under SC0423 Fringe Rate Expense  because S+F have no Object Class and re-calculated so that fringe is also applied to various leave types; current charge is only $704.76
+	* $1,138.58 (Vance Green - Fringe) not listed under SC0423 Fringe Rate Expense  because S+F have no Object Class and re-calculated so that fringe is also applied to various leave types; current fringe charge is only $704.76
 	* $3.07 (Victoria Burton - Fringe) not listed under SC0423 Fringe Rate Expense because S+F have no Object Class
 	* IDC is incorrect, after all corrections and PAAs should be a total of $3,432.82
 
@@ -76,7 +75,7 @@ This should balance the account.
 
 
 ## GR013045 // Sandia // Photogrammetry Services
-
+---
 Ends: December 31, 2020
 
 Current issues:
@@ -92,11 +91,11 @@ Current issues:
 	* Jackson Cothren Salary - $2,899.36 to GR013045 Sandia (from PG002926)
 
 ### September
-PAAs needed:
+* PAAs needed:
 	* Chris Angel Salary - $3,258.33 to GR008003 NIJ Fed Terrorism (from GR013045 Sandia)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTM1MDM2MSw3ODkxNjA3NzYsLTE0MD
+eyJoaXN0b3J5IjpbMjAzMTQ0MzY1Myw3ODkxNjA3NzYsLTE0MD
 E2MTk3NDcsODEwNjcyNzQyLC0xNjMyODIwMTIxLC03NjIwMDY5
 ODMsLTIwMzcyOTY4ODAsMTUyMTAwMzc5NywxNDQ5MTAxMTM3XX
 0=
