@@ -92,9 +92,10 @@ Current issues:
 	* Jackson Cothren Salary - $2,899.36 to GR013045 Sandia (from PG002926)
 
 ### September
-*
+* PAAs needed
+	* Chris Angel Salary - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY3MDE1MDI2LDE1MjEwMDM3OTcsMTQ0OT
-EwMTEzN119
+eyJoaXN0b3J5IjpbLTEzMDk5NDAyNDEsMTUyMTAwMzc5NywxND
+Q5MTAxMTM3XX0=
 -->
