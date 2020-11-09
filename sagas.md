@@ -1,9 +1,10 @@
 
 # Icelandic Saga Map
-## Creator: Emily Lethbridge
-The Icelandic Saga Map database contains geo-referenced texts in Icelandic and English, with specific emphasis on medieval Icelandic sagas. All geographical places mentioned in the texts are displayed on a map interface with the text alongside. Other data pertains to medieval and post-medieval parchment and paper manuscripts of the geo-referenced saga texts, and to Icelandic travel books.</dc:description>
-<dcterms:abstract>The Icelandic Saga Map database contains geo-referenced texts in Icelandic and English, with specific emphasis on medieval Icelandic sagas. All geographical places mentioned in the texts are displayed on a map interface with the text alongside.</dcterms:abstract>
-<dcterms:tableOfContents>
+**Creator:** Emily Lethbridge
+**Description:** The Icelandic Saga Map database contains geo-referenced texts in Icelandic and English, with specific emphasis on medieval Icelandic sagas. All geographical places mentioned in the texts are displayed on a map interface with the text alongside. Other data pertains to medieval and post-medieval parchment and paper manuscripts of the geo-referenced saga texts, and to Icelandic travel books.
+
+**Abstract:** The Icelandic Saga Map database contains geo-referenced texts in Icelandic and English, with specific emphasis on medieval Icelandic sagas. All geographical places mentioned in the texts are displayed on a map interface with the text alongside.
+**Field List:**
 	"Field Name: sagas_id
 	Field Type: number
 	Field Title:Sagas Id
@@ -111,5 +112,5 @@ The Icelandic Saga Map database contains geo-referenced texts in Icelandic and E
 
 </metadata>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njk3ODU1MjldfQ==
+eyJoaXN0b3J5IjpbMTYyOTMyMTc4OV19
 -->
