@@ -1,5 +1,5 @@
 ## What would make these reports more useful?
-
+For RPT - Reported Time Blocks for a Worker, include the worktags that the time block was c
 
 
 ## GR012016 // ORNL FMV
@@ -96,7 +96,7 @@ Current issues:
 	* Chris Angel Salary - $3,258.33 to GR008003 NIJ Fed Terrorism (from GR013045 Sandia)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MzUwMTE3NiwyMDMxNDQzNjUzLDc4OT
+eyJoaXN0b3J5IjpbMjEwMTk5MjI0NywyMDMxNDQzNjUzLDc4OT
 E2MDc3NiwtMTQwMTYxOTc0Nyw4MTA2NzI3NDIsLTE2MzI4MjAx
 MjEsLTc2MjAwNjk4MywtMjAzNzI5Njg4MCwxNTIxMDAzNzk3LD
 E0NDkxMDExMzddfQ==
