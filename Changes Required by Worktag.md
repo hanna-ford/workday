@@ -1,5 +1,7 @@
 ## What would make these reports more useful?
-For RPT - Reported Time Blocks for a Worker, include the worktags that the time block was c
+For RPT - Reported Time Blocks for a Worker, include the worktags (cost center, fund, grant) that the time block was charge to AND the "Comment" that was included by the worker.
+
+For 
 
 
 ## GR012016 // ORNL FMV
@@ -96,8 +98,8 @@ Current issues:
 	* Chris Angel Salary - $3,258.33 to GR008003 NIJ Fed Terrorism (from GR013045 Sandia)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMTk5MjI0NywyMDMxNDQzNjUzLDc4OT
-E2MDc3NiwtMTQwMTYxOTc0Nyw4MTA2NzI3NDIsLTE2MzI4MjAx
-MjEsLTc2MjAwNjk4MywtMjAzNzI5Njg4MCwxNTIxMDAzNzk3LD
-E0NDkxMDExMzddfQ==
+eyJoaXN0b3J5IjpbNjI2MTUzODQxLDIwMzE0NDM2NTMsNzg5MT
+YwNzc2LC0xNDAxNjE5NzQ3LDgxMDY3Mjc0MiwtMTYzMjgyMDEy
+MSwtNzYyMDA2OTgzLC0yMDM3Mjk2ODgwLDE1MjEwMDM3OTcsMT
+Q0OTEwMTEzN119
 -->
