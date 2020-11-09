@@ -7,66 +7,80 @@
 
 **Field List:**
 
- - Field Name: sagas_id Field Type: number Field Title: Sagas Id Field
-   Description: The unique saga identification number assigned in the
-   Icelandic Saga Map (ISM)
-   Field Name: sagas_name Field Type: string Field Title: Sagas Name
-   Field Description: Title of the written work (e.g. Laxdæla saga)
- - Field Name: sagas_sagaid Field Type: number Field Title: Sagas Sagaid
-   Emily needs to remove from dataset when uploaded Field Description:  
-   The unique saga identification number assigned in the Icelandic Saga 
-   Map (ISM)
+Field Name: sagas_id
+Field Type: number
+Field Title: Sagas Id
+Field Description: The unique saga identification number assigned in the Icelandic Saga Map (ISM)
 
-   
-   Field Name: sagas_saganame Field Type: string Field Title: Sagas
-   Saganame Emily needs to remove from dataset when uploaded Field
-   Description: Title of the written work (e.g. Laxdæla saga)
-   
-   Field Name: sagas_type Field Type: string Field Title: Sagas Type
-   (Place Type) Field Description: This is Place Type and the field
-   should be renamed as such. Type of physical place, whether natural or
-   manmade (e.g. farm, valley, harbor, etc.)
-   
-   Field Name:  sagas_chapter Field Type:  string Field Title:  Sagas
-   Chapter Field Description:  Number of chapter within saga. (e.g. 1
-   kafli (Chapter 1))
-   
-   "Field Name: sagas_chapternr Field Type: number Field Title: Sagas
-   Chapter Number Field Description: Chapter number (number only)
-   
-   Field Name: sagas_action_start Field Type: string Field Title: Sagas
-   Action Start Field Description: Year in Common Era (CE) noting the
-   beginning of action in the saga
-   
-   Field Name: sagas_action_end Field Type: string Field Title: Sagas
-   Action End Field Description: Year in Common Era (CE) noting the end
-   of action in the saga
-   
-   Field Name: sagas_composition_start Field Type: string Field Title:
-   Sagas Composition Start Field Description: Year in Common Era (CE)
-   marking earliest time of written composition for a text
-   
-   Field Name: sagas_composition_end Field Type: string Field Title:
-   Sagas Composition End Field Description: Year in Common Era (CE)
-   marking latest time of written composition for a text
-   
-   Field Name: sagas_oldest_manuscript Field Type: string Field Title:
-   Sagas Oldest Manuscript Field Description: Accession number for the
-   oldest manuscript for this saga
-   
-   Field Name: sagas_oldest_manuscript_start Field Type: string Field
-   Title: Sagas Oldest Manuscript Start Field Description: Year in
-   Common Era (CE) marking the earliest date of production of the oldest
-   manuscript of given saga
-   
-   Field Name: sagas_oldest_manuscript_end Field Type: string Field
-   Title: Sagas Oldest Manuscript End Field Description: Year in Common
-   Era (CE) marking the latest date of production of the oldest
-   manuscript of given saga
-   
-   Field Name: sagas_manuscript_link Field Type: string Field Title:
-   Sagas Manuscript Link Field Description: URL to the online manuscript
-   catalog with digital images and additional information
+Field Name: sagas_name
+Field Type: string
+Field Title: Sagas Name
+Field Description: Title of the written work (e.g. Laxdæla saga)
+
+Field Name: sagas_sagaid
+Field Type: number
+Field Title: Sagas Sagaid Emily needs to remove from dataset when uploaded
+Field Description: The unique saga identification number assigned in the Icelandic Saga Map (ISM)
+
+Field Name: sagas_saganame
+Field Type: string
+Field Title: Sagas Saganame Emily needs to remove from dataset when uploaded
+Field Description: Title of the written work (e.g. Laxdæla saga)
+
+Field Name: sagas_type
+Field Type: string
+Field Title: Sagas Type (Place Type)
+Field Description: This is Place Type and the field should be renamed as such. Type of physical place, whether natural or manmade (e.g. farm, valley, harbor, etc.)
+
+Field Name:  sagas_chapter
+Field Type:  string
+Field Title:  Sagas Chapter
+Field Description:  Number of chapter within saga. (e.g. 1 kafli (Chapter 1))
+
+"Field Name: sagas_chapternr
+Field Type: number
+Field Title: Sagas Chapter Number
+Field Description: Chapter number (number only)
+
+Field Name: sagas_action_start
+Field Type: string
+Field Title: Sagas Action Start
+Field Description: Year in Common Era (CE) noting the beginning of action in the saga
+
+Field Name: sagas_action_end
+Field Type: string
+Field Title: Sagas Action End
+Field Description: Year in Common Era (CE) noting the end of action in the saga
+
+Field Name: sagas_composition_start
+Field Type: string
+Field Title: Sagas Composition Start
+Field Description: Year in Common Era (CE) marking earliest time of written composition for a text
+
+Field Name: sagas_composition_end
+Field Type: string
+Field Title: Sagas Composition End
+Field Description: Year in Common Era (CE) marking latest time of written composition for a text
+
+Field Name: sagas_oldest_manuscript
+Field Type: string
+Field Title: Sagas Oldest Manuscript
+Field Description: Accession number for the oldest manuscript for this saga
+
+Field Name: sagas_oldest_manuscript_start
+Field Type: string
+Field Title: Sagas Oldest Manuscript Start
+Field Description: Year in Common Era (CE) marking the earliest date of production of the oldest manuscript of given saga
+
+Field Name: sagas_oldest_manuscript_end
+Field Type: string
+Field Title: Sagas Oldest Manuscript End
+Field Description: Year in Common Era (CE) marking the latest date of production of the oldest manuscript of given saga
+
+Field Name: sagas_manuscript_link
+Field Type: string
+Field Title: Sagas Manuscript Link
+Field Description: URL to the online manuscript catalog with digital images and additional information
 
 **Publisher:** University of Iceland
 
@@ -88,5 +102,5 @@
 
 **License:** CC BY-NC
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDg3MTAyNTVdfQ==
+eyJoaXN0b3J5IjpbMTA0MzY1MDc5NV19
 -->
