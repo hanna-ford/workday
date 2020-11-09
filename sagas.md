@@ -9,25 +9,23 @@
 
 Field Name: sagas_id
 Field Type: number
-Field Title:Sagas Id
-Field Description:The unique saga identification number assigned in the Icelandic Saga Map (ISM)
-
-
+Field Title: Sagas Id
+Field Description: The unique saga identification number assigned in the Icelandic Saga Map (ISM)
 
 Field Name: sagas_name
-	Field Type: string
-	Field Title:Sagas Name
-	Field Description:Title of the written work (e.g. Laxdæla saga)
+Field Type: string
+Field Title: Sagas Name
+Field Description: Title of the written work (e.g. Laxdæla saga)
 
-	"Field Name: sagas_sagaid
-	Field Type: number
-	Field Title:Sagas Sagaid Emily needs to remove from dataset when uploaded
-	Field Description:The unique saga identification number assigned in the Icelandic Saga Map (ISM)"
+Field Name: sagas_sagaid
+Field Type: number
+Field Title: Sagas Sagaid Emily needs to remove from dataset when uploaded
+Field Description: The unique saga identification number assigned in the Icelandic Saga Map (ISM)
 
-	"Field Name: sagas_saganame
-	Field Type: string
-	Field Title:Sagas Saganame Emily needs to remove from dataset when uploaded
-	Field Description:Title of the written work (e.g. Laxdæla saga)"
+Field Name: sagas_saganame
+Field Type: string
+Field Title: Sagas Saganame Emily needs to remove from dataset when uploaded
+Field Description: Title of the written work (e.g. Laxdæla saga)
 
 	"Field Name: sagas_type
 	Field Type: string
@@ -117,5 +115,5 @@ Field Name: sagas_name
 
 </metadata>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc0MDY3MDM1XX0=
+eyJoaXN0b3J5IjpbLTEzNjc1Mjc1NDFdfQ==
 -->
