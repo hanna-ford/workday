@@ -83,12 +83,9 @@ Field Title: Sagas Manuscript Link
 Field Description: URL to the online manuscript catalog with digital images and additional information
 
 **Publisher:** University of Iceland
-Contributor(s): Trausti Dagsson, Pétur Húni Björnsson, Logi Ragnarsson, tor>Zachary Melton</dc:contributor>
-<dc:contributor>Gísli Pálsson</dc:contributor>
-<dc:contributor>Hjördís Erna Sigurðardóttir</dc:contributor>
-<dc:contributor>Nikola Machackova</dc:contributor>
-<dcterms:created>2015</dcterms:created>
-<dc:type xsi:type="dcterms:DCMIType">dataset</dc:type>
+**Contributor(s):** Trausti Dagsson, Pétur Húni Björnsson, Logi Ragnarsson, Zachary Melton, Gísli Pálsson, Hjördís Erna Sigurðardóttir, Nikola Machackova, 
+**Created:** 2015
+**DCMI Type:** dataset
 <dc:format>JSON</dc:format>
 <dc:language>English</dc:language>
 <dc:language>Icelandic</dc:language>
@@ -108,5 +105,5 @@ Contributor(s): Trausti Dagsson, Pétur Húni Björnsson, Logi Ragnarsson, tor>Z
 
 </metadata>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzcyMTI3MTNdfQ==
+eyJoaXN0b3J5IjpbMzQ0MDcwNzAxXX0=
 -->
