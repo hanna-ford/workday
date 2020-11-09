@@ -86,15 +86,10 @@ Field Description: URL to the online manuscript catalog with digital images and 
 **Contributor(s):** Trausti Dagsson, Pétur Húni Björnsson, Logi Ragnarsson, Zachary Melton, Gísli Pálsson, Hjördís Erna Sigurðardóttir, Nikola Machackova, 
 **Created:** 2015
 **DCMI Type:** dataset
-<dc:format>JSON</dc:format>
-<dc:language>English</dc:language>
-<dc:language>Icelandic</dc:language>
-<dc:relation>Documentary research: http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf</dc:relation>
-<dcterms:spatial>Iceland</dcterms:spatial>
-<dcterms:spatial>Norway</dcterms:spatial>
-<dcterms:spatial>Denmark</dcterms:spatial>
-<dcterms:spatial>Sweden</dcterms:spatial>
-<dcterms:spatial>Greenland</dcterms:spatial>
+**Format** JSON
+**Language(s):** English, Icelandic
+**Relation:** Documentary research: http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf
+Extent, spatial: Iceland, Norway, Denmark, Sweden, Greenland
 <dcterms:spatial>Faroe Islands</dcterms:spatial>
 <dcterms:spatial>United Kingdom</dcterms:spatial>
 <dcterms:spatial>North America</dcterms:spatial>
@@ -105,5 +100,5 @@ Field Description: URL to the online manuscript catalog with digital images and 
 
 </metadata>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ0MDcwNzAxXX0=
+eyJoaXN0b3J5IjpbNzgyNDczMzExXX0=
 -->
