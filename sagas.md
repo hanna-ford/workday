@@ -75,19 +75,15 @@ Field Description: Year in Common Era (CE) marking the earliest date of producti
 Field Name: sagas_oldest_manuscript_end
 Field Type: string
 Field Title: Sagas Oldest Manuscript End
-Field Description:Year in Common Era (CE) marking the latest date of production of the oldest manuscript of given saga"
+Field Description: Year in Common Era (CE) marking the latest date of production of the oldest manuscript of given saga
 
-	"Field Name: sagas_manuscript_link
-	Field Type: string
-	Field Title:Sagas Manuscript Link
-	Field Description:URL to the online manuscript catalog with digital images and additional information"	
+Field Name: sagas_manuscript_link
+Field Type: string
+Field Title: Sagas Manuscript Link
+Field Description: URL to the online manuscript catalog with digital images and additional information
 
-</dcterms:tableOfContents>
-<dc:publisher>University of Iceland</dc:publisher>
-<dc:contributor>Trausti Dagsson</dc:contributor>
-<dc:contributor>Pétur Húni Björnsson</dc:contributor>
-<dc:contributor>Logi Ragnarsson</dc:contributor>
-<dc:contributor>Zachary Melton</dc:contributor>
+**Publisher:** University of Iceland
+Contributor(s): Trausti Dagsson, Pétur Húni Björnsson, Logi Ragnarsson, tor>Zachary Melton</dc:contributor>
 <dc:contributor>Gísli Pálsson</dc:contributor>
 <dc:contributor>Hjördís Erna Sigurðardóttir</dc:contributor>
 <dc:contributor>Nikola Machackova</dc:contributor>
@@ -112,5 +108,5 @@ Field Description:Year in Common Era (CE) marking the latest date of production 
 
 </metadata>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjI0MzI0MDFdfQ==
+eyJoaXN0b3J5IjpbLTE5MzcyMTI3MTNdfQ==
 -->
