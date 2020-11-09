@@ -27,23 +27,20 @@ Field Type: string
 Field Title: Sagas Saganame Emily needs to remove from dataset when uploaded
 Field Description: Title of the written work (e.g. Laxdæla saga)
 
-	"Field Name: sagas_type
-	Field Type: string
-	Field Title:Sagas Type
-	Emily needs to rename this field upon reupload to Place Type
-	Field Description:This is Place Type and the field should be renamed as such. Type of physical place, whether natural or manmade (e.g. farm, valley, harbor, etc.)"
+Field Name: sagas_type
+Field Type: string
+Field Title: Sagas Type (Place Type)
+Field Description: This is Place Type and the field should be renamed as such. Type of physical place, whether natural or manmade (e.g. farm, valley, harbor, etc.)
 
-	"Field Name:  sagas_chapter
-	Field Type:  string
-	Field Title:  Sagas Chapter
-	Emily - Is it more valuable to have the Chapter or Chapternr field in the database? Do we need ""kafli"" in each field or can we just display the chapter number?
-	Field Description:  Number of chapter within saga. (e.g. 1 kafli (Chapter 1))"
+Field Name:  sagas_chapter
+Field Type:  string
+Field Title:  Sagas Chapter
+Field Description:  Number of chapter within saga. (e.g. 1 kafli (Chapter 1))
 
-	"Field Name: sagas_chapternr
-	Field Type: number
-	Field Title:Sagas Chapternr 
-	See Above. Remove Chapter or Chapternr field from dataset when reuploaded
-	Field Description:Chapter number (number only)"
+"Field Name: sagas_chapternr
+Field Type: number
+Field Title: Sagas Chapternr 
+Field Description: Chapter number (number only)"
 
 	"Field Name: sagas_action_start
 	Field Type: string
@@ -115,5 +112,5 @@ Field Description: Title of the written work (e.g. Laxdæla saga)
 
 </metadata>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjc1Mjc1NDFdfQ==
+eyJoaXN0b3J5IjpbLTE2MzYyODIzMjBdfQ==
 -->
