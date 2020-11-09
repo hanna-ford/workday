@@ -4,16 +4,20 @@
 **Description:** The Icelandic Saga Map database contains geo-referenced texts in Icelandic and English, with specific emphasis on medieval Icelandic sagas. All geographical places mentioned in the texts are displayed on a map interface with the text alongside. Other data pertains to medieval and post-medieval parchment and paper manuscripts of the geo-referenced saga texts, and to Icelandic travel books.
 
 **Abstract:** The Icelandic Saga Map database contains geo-referenced texts in Icelandic and English, with specific emphasis on medieval Icelandic sagas. All geographical places mentioned in the texts are displayed on a map interface with the text alongside.
-**Field List:**
-	"Field Name: sagas_id
-	Field Type: number
-	Field Title:Sagas Id
-	Field Description:The unique saga identification number assigned in the Icelandic Saga Map (ISM)"
 
-	"Field Name: sagas_name
+**Field List:**
+
+Field Name: sagas_id
+Field Type: number
+Field Title:Sagas Id
+Field Description:The unique saga identification number assigned in the Icelandic Saga Map (ISM)
+
+
+
+Field Name: sagas_name
 	Field Type: string
 	Field Title:Sagas Name
-	Field Description:Title of the written work (e.g. Laxdæla saga)"
+	Field Description:Title of the written work (e.g. Laxdæla saga)
 
 	"Field Name: sagas_sagaid
 	Field Type: number
@@ -55,7 +59,7 @@
 
 	"Field Name: sagas_composition_start
 	Field Type: string
-	Field Title:Sagas Composition Start
+		Field Title:Sagas Composition Start
 	Field Description:Year in Common Era (CE) marking earliest time of written composition for a text"
 
 	"Field Name: sagas_composition_end
@@ -81,7 +85,8 @@
 	"Field Name: sagas_manuscript_link
 	Field Type: string
 	Field Title:Sagas Manuscript Link
-	Field Description:URL to the online manuscript catalog with digital images and additional information"
+	Field Description:URL to the online manuscript catalog with digital images and additional information"	
+
 </dcterms:tableOfContents>
 <dc:publisher>University of Iceland</dc:publisher>
 <dc:contributor>Trausti Dagsson</dc:contributor>
@@ -112,5 +117,5 @@
 
 </metadata>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyOTMyMTc4OV19
+eyJoaXN0b3J5IjpbODc0MDY3MDM1XX0=
 -->
