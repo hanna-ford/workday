@@ -89,16 +89,9 @@ Field Description: URL to the online manuscript catalog with digital images and 
 **Format** JSON
 **Language(s):** English, Icelandic
 **Relation:** Documentary research: http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf
-Extent, spatial: Iceland, Norway, Denmark, Sweden, Greenland
-<dcterms:spatial>Faroe Islands</dcterms:spatial>
-<dcterms:spatial>United Kingdom</dcterms:spatial>
-<dcterms:spatial>North America</dcterms:spatial>
-<dcterms:temporal xsi:type="dcterms:Period">Early Viking Period - Modern, with focus on Early Viking Period</dcterms:temporal>
-<dcterms:temporal xsi:type="dcterms:Period">Late Viking Period</dcterms:temporal>
-<dcterms:temporal xsi:type="dcterms:Period">Early Medieval Period</dcterms:temporal>
-<dcterms:license>CC BY-NC</dcterms:license>
-
-</metadata>
+**Extent, spatial:** Iceland, Norway, Denmark, Sweden, Greenland, Faroe Islands, United Kingdom, North America
+**Extent, temporal:** Early Viking Period - Modern, with focus on Early Viking Period; Late Viking Period; Early Medieval Period
+**License:** CC BY-NC
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgyNDczMzExXX0=
+eyJoaXN0b3J5IjpbLTE3NDgwMjI5MV19
 -->
