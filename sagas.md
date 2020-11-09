@@ -39,43 +39,43 @@ Field Description:  Number of chapter within saga. (e.g. 1 kafli (Chapter 1))
 
 "Field Name: sagas_chapternr
 Field Type: number
-Field Title: Sagas Chapternr 
-Field Description: Chapter number (number only)"
+Field Title: Sagas Chapter Number
+Field Description: Chapter number (number only)
 
-	"Field Name: sagas_action_start
-	Field Type: string
-	Field Title:Sagas Action Start
-	Field Description:Year in Common Era (CE) noting the beginning of action in the saga."
+Field Name: sagas_action_start
+Field Type: string
+Field Title: Sagas Action Start
+Field Description: Year in Common Era (CE) noting the beginning of action in the saga
 
-	"Field Name: sagas_action_end
-	Field Type: string
-	Field Title:Sagas Action End
-	Field Description:Year in Common Era (CE) noting the end of action in the saga."
+Field Name: sagas_action_end
+Field Type: string
+Field Title: Sagas Action End
+Field Description: Year in Common Era (CE) noting the end of action in the saga
 
-	"Field Name: sagas_composition_start
-	Field Type: string
-		Field Title:Sagas Composition Start
-	Field Description:Year in Common Era (CE) marking earliest time of written composition for a text"
+Field Name: sagas_composition_start
+Field Type: string
+Field Title: Sagas Composition Start
+Field Description: Year in Common Era (CE) marking earliest time of written composition for a text
 
-	"Field Name: sagas_composition_end
-	Field Type: string
-	Field Title:Sagas Composition End
-	Field Description:Year in Common Era (CE) marking latest time of written composition for a text"
+Field Name: sagas_composition_end
+Field Type: string
+Field Title: Sagas Composition End
+Field Description: Year in Common Era (CE) marking latest time of written composition for a text
 
-	"Field Name: sagas_oldest_manuscript
-	Field Type: string
-	Field Title:Sagas Oldest Manuscript
-	Field Description:Accession number for the oldest manuscript for this saga"
+Field Name: sagas_oldest_manuscript
+Field Type: string
+Field Title: Sagas Oldest Manuscript
+Field Description: Accession number for the oldest manuscript for this saga
 
-	"Field Name: sagas_oldest_manuscript_start
-	Field Type: string
-	Field Title:Sagas Oldest Manuscript Start
-	Field Description:Year in Common Era (CE) marking the earliest date of production of the oldest manuscript of given saga"
+Field Name: sagas_oldest_manuscript_start
+Field Type: string
+Field Title: Sagas Oldest Manuscript Start
+Field Description: Year in Common Era (CE) marking the earliest date of production of the oldest manuscript of given saga
 
-	"Field Name: sagas_oldest_manuscript_end
-	Field Type: string
-	Field Title:Sagas Oldest Manuscript End
-	Field Description:Year in Common Era (CE) marking the latest date of production of the oldest manuscript of given saga"
+Field Name: sagas_oldest_manuscript_end
+Field Type: string
+Field Title: Sagas Oldest Manuscript End
+Field Description:Year in Common Era (CE) marking the latest date of production of the oldest manuscript of given saga"
 
 	"Field Name: sagas_manuscript_link
 	Field Type: string
@@ -112,5 +112,5 @@ Field Description: Chapter number (number only)"
 
 </metadata>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzYyODIzMjBdfQ==
+eyJoaXN0b3J5IjpbLTE2NjI0MzI0MDFdfQ==
 -->
