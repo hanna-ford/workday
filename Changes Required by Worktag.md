@@ -1,3 +1,4 @@
+## What would make these reports more useful?
 
 
 
@@ -95,8 +96,8 @@ Current issues:
 	* Chris Angel Salary - $3,258.33 to GR008003 NIJ Fed Terrorism (from GR013045 Sandia)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMTQ0MzY1Myw3ODkxNjA3NzYsLTE0MD
-E2MTk3NDcsODEwNjcyNzQyLC0xNjMyODIwMTIxLC03NjIwMDY5
-ODMsLTIwMzcyOTY4ODAsMTUyMTAwMzc5NywxNDQ5MTAxMTM3XX
-0=
+eyJoaXN0b3J5IjpbLTU5MzUwMTE3NiwyMDMxNDQzNjUzLDc4OT
+E2MDc3NiwtMTQwMTYxOTc0Nyw4MTA2NzI3NDIsLTE2MzI4MjAx
+MjEsLTc2MjAwNjk4MywtMjAzNzI5Njg4MCwxNTIxMDAzNzk3LD
+E0NDkxMDExMzddfQ==
 -->
