@@ -105,9 +105,12 @@ Ends:
 
 Current issues:
 
-### Gene
+### July
+* RC8000 Facilities and Administration Returns (F&A return) 
+	* is mislabeled as DS01412 UAF | AFLS RIF
+	* hav
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MjQ1MzAwNyw2MjYxNTM4NDEsMjAzMT
+eyJoaXN0b3J5IjpbLTI4NTY4MTIwOSw2MjYxNTM4NDEsMjAzMT
 Q0MzY1Myw3ODkxNjA3NzYsLTE0MDE2MTk3NDcsODEwNjcyNzQy
 LC0xNjMyODIwMTIxLC03NjIwMDY5ODMsLTIwMzcyOTY4ODAsMT
 UyMTAwMzc5NywxNDQ5MTAxMTM3XX0=
