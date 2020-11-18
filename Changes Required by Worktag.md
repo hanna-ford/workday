@@ -97,9 +97,18 @@ Current issues:
 * PAAs needed:
 	* Chris Angel Salary - $3,258.33 to GR008003 NIJ Fed Terrorism (from GR013045 Sandia)
 
+
+
+## GR0011733 // NPS // Rising Above in AR: Japanese American Incarceration at Rohwer and Jerome
+---
+Ends:
+
+Current issues:
+
+### Gene
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI2MTUzODQxLDIwMzE0NDM2NTMsNzg5MT
-YwNzc2LC0xNDAxNjE5NzQ3LDgxMDY3Mjc0MiwtMTYzMjgyMDEy
-MSwtNzYyMDA2OTgzLC0yMDM3Mjk2ODgwLDE1MjEwMDM3OTcsMT
-Q0OTEwMTEzN119
+eyJoaXN0b3J5IjpbMTA5MjQ1MzAwNyw2MjYxNTM4NDEsMjAzMT
+Q0MzY1Myw3ODkxNjA3NzYsLTE0MDE2MTk3NDcsODEwNjcyNzQy
+LC0xNjMyODIwMTIxLC03NjIwMDY5ODMsLTIwMzcyOTY4ODAsMT
+UyMTAwMzc5NywxNDQ5MTAxMTM3XX0=
 -->
