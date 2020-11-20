@@ -17,12 +17,12 @@
 | | sagas_chapternr | number | Sagas Chapter Number | Chapter number (number only) |
 | | sagas_action_start | string | Sagas Action Start | Year in Common Era (CE) noting the beginning of action in the saga|
 | | sagas_action_end | string | Sagas Action End | Year in Common Era (CE) noting the beginning of action in the saga|
-| | sagas_composition_start | string | Year in Common Era (CE) marking earliest time of written composition for a text |
-| | sagas_composition_end | string | Year in Common Era (CE) marking earliest time of written composition for a text |
-| | sagas_oldest_manuscript | string | Accession number for the oldest manuscript for this saga |
-| | sagas_oldest_manuscript_start | string | Year in Common Era (CE) marking the earliest date of production of the oldest manuscript of given saga |
+| | sagas_composition_start | string | Sagas Composition Start |Year in Common Era (CE) marking earliest time of written composition for a text |
+| | sagas_composition_end | string | Sagas Composition End | Year in Common Era (CE) marking earliest time of written composition for a text |
+| | sagas_oldest_manuscript | string | Sagas Oldest Manuscript | Accession number for the oldest manuscript for this saga |
+| | sagas_oldest_manuscript_start | string | | Year in Common Era (CE) marking the earliest date of production of the oldest manuscript of given saga |
 | | sagas_oldest_manuscript_end | string | Year in Common Era (CE) marking the earliest date of production of the oldest manuscript of given saga |
-
+| | sagas_manuscript_link | string | URL to the online manuscript catalog with digital images and additional information
 
 
 <!-- Field Name: sagas_id
@@ -121,5 +121,5 @@ Field Description: URL to the online manuscript catalog with digital images and 
 
 **License:** CC BY-NC
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI3OTcwNjMwLDEwNDM2NTA3OTVdfQ==
+eyJoaXN0b3J5IjpbODQyNDI0MzkwLDEwNDM2NTA3OTVdfQ==
 -->
