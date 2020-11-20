@@ -6,9 +6,13 @@
 **Abstract:** The Icelandic Saga Map database contains geo-referenced texts in Icelandic and English, with specific emphasis on medieval Icelandic sagas. All geographical places mentioned in the texts are displayed on a map interface with the text alongside.
 
 **Field List:**
-Field Name	|	Field Type	| Field Title	|Field Description
-__________________________________________________________
+| Column 1 | Column 2 |
+|:--------:| -------------:|
+| centered | right-aligned |
 
+|	Field Name	|	Field Type	|	Field Title	|	Field Description	|
+|:--------------------:|:--------------------:|:--------------------:|:--------------------:|
+sagas
 
 
 Field Name: sagas_id
@@ -106,5 +110,5 @@ Field Description: URL to the online manuscript catalog with digital images and 
 
 **License:** CC BY-NC
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxODgwMjg1NCwxMDQzNjUwNzk1XX0=
+eyJoaXN0b3J5IjpbLTEyMTg0OTM0ODYsMTA0MzY1MDc5NV19
 -->
