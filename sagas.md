@@ -16,8 +16,10 @@
 | | sagas_chapter | string | Sagas Chapter | Number of chapter within saga. (e.g. 1 kafli (Chapter 1)) |
 | | sagas_chapternr | number | Sagas Chapter Number | Chapter number (number only) |
 | | sagas_action_start | string | Sagas Action Start | Year in Common Era (CE) noting the beginning of action in the saga|
-| | 
-
+| | sagas_action_end | string | Sagas Action End | Year in Common Era (CE) noting the beginning of action in the saga|
+| | sagas_composition_start | string | Year in Common Era (CE) marking earliest time of written composition for a text |
+| | sagas_composition_end | string | Year in Common Era (CE) marking earliest time of written composition for a text |
+| | sag
 
 
 <!-- Field Name: sagas_id
@@ -116,5 +118,5 @@ Field Description: URL to the online manuscript catalog with digital images and 
 
 **License:** CC BY-NC
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NTA4Njc4MywxMDQzNjUwNzk1XX0=
+eyJoaXN0b3J5IjpbLTU4NDcyOTU3MCwxMDQzNjUwNzk1XX0=
 -->
