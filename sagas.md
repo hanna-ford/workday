@@ -28,7 +28,7 @@
 **Field List:**
 |Remove | Field Name	| Field Type	| Field Title	| Field Description	|
 |:----|:--------------------|:--------------------:|:--------------------:|:--------------------|
-||sagas_id | number | Sagas ID | The unique saga identification number assigned in the Icelandic Saga Map (ISM)
+| |sagas_id | number | Sagas ID | The unique saga identification number assigned in the Icelandic Saga Map (ISM)
 ||sagas_name | string | Sagas Name | Title of the written work (e.g. Laxdæla saga) |
 |x|sagas_sagaid | number | Sagas Sagaid | The unique saga identification number assigned in the Icelandic Saga Map (ISM) |
 |x|sagas_saganmae | string | Sagas Saganame | Title of the written work (e.g. Laxdæla saga) |
@@ -124,6 +124,6 @@ Field Description: URL to the online manuscript catalog with digital images and 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMDY2OTQ5MCwtMTcxOTY1ODU5OCwtNj
-U2NzIzOTUyLDEwNDM2NTA3OTVdfQ==
+eyJoaXN0b3J5IjpbMTEwODg3NDUzNiwyMDMwNjY5NDkwLC0xNz
+E5NjU4NTk4LC02NTY3MjM5NTIsMTA0MzY1MDc5NV19
 -->
