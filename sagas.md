@@ -12,7 +12,8 @@
 
 |	Field Name	|	Field Type	|	Field Title	|	Field Description	|
 |:--------------------:|:--------------------:|:--------------------:|:--------------------:|
-sagas
+
+|sagas_id | number | Sagas ID | The unique saga identification number assigned in the Icelandic Saga Map (ISM)
 
 
 Field Name: sagas_id
@@ -110,5 +111,5 @@ Field Description: URL to the online manuscript catalog with digital images and 
 
 **License:** CC BY-NC
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTg0OTM0ODYsMTA0MzY1MDc5NV19
+eyJoaXN0b3J5IjpbNjQ4MzA5NzMyLDEwNDM2NTA3OTVdfQ==
 -->
