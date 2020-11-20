@@ -5,6 +5,26 @@
 
 **Abstract:** The Icelandic Saga Map database contains geo-referenced texts in Icelandic and English, with specific emphasis on medieval Icelandic sagas. All geographical places mentioned in the texts are displayed on a map interface with the text alongside.
 
+**Publisher:** University of Iceland
+
+**Contributor(s):** Trausti Dagsson, Pétur Húni Björnsson, Logi Ragnarsson, Zachary Melton, Gísli Pálsson, Hjördís Erna Sigurðardóttir, Nikola Machackova
+
+**Created:** 2015
+
+**DCMI Type:** dataset
+
+**Format** JSON
+
+**Language(s):** English, Icelandic
+
+**Relation:** Documentary research: http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf
+
+**Extent, spatial:** Iceland, Norway, Denmark, Sweden, Greenland, Faroe Islands, United Kingdom, North America
+
+**Extent, temporal:** Early Viking Period - Modern, with focus on Early Viking Period; Late Viking Period; Early Medieval Period
+
+**License:** CC BY-NC
+
 **Field List:**
 |Remove | Field Name	| Field Type	| Field Title	| Field Description	|
 |:----|:--------------------:|:--------------------:|:--------------------:|:--------------------|
@@ -101,25 +121,9 @@ Field Title: Sagas Manuscript Link
 Field Description: URL to the online manuscript catalog with digital images and additional information
 !-->
 
-**Publisher:** University of Iceland
 
-**Contributor(s):** Trausti Dagsson, Pétur Húni Björnsson, Logi Ragnarsson, Zachary Melton, Gísli Pálsson, Hjördís Erna Sigurðardóttir, Nikola Machackova
 
-**Created:** 2015
-
-**DCMI Type:** dataset
-
-**Format** JSON
-
-**Language(s):** English, Icelandic
-
-**Relation:** Documentary research: http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf
-
-**Extent, spatial:** Iceland, Norway, Denmark, Sweden, Greenland, Faroe Islands, United Kingdom, North America
-
-**Extent, temporal:** Early Viking Period - Modern, with focus on Early Viking Period; Late Viking Period; Early Medieval Period
-
-**License:** CC BY-NC
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NjcyMzk1MiwxMDQzNjUwNzk1XX0=
+eyJoaXN0b3J5IjpbLTE3MTk2NTg1OTgsLTY1NjcyMzk1MiwxMD
+QzNjUwNzk1XX0=
 -->
