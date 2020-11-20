@@ -14,7 +14,9 @@
 |x|sagas_saganmae | string | Sagas Saganame | Title of the written work (e.g. Laxdæla saga) |
 | |sagas_type | string | Sagas Type (Place Type) | This is Place Type and the field should be renamed as such. Type of physical place, whether natural or manmade (e.g. farm, valley, harbor, etc.)|
 | | sagas_chapter | string | Sagas Chapter | Number of chapter within saga. (e.g. 1 kafli (Chapter 1)) |
-|
+| | sagas_chapternr | number | Sagas Chapter Number | Chapter number (number only) |
+| | sagas_action_start | string | Sagas Action Start | Year in Common Era (CE) noting the beginning of action in the saga|
+| | 
 
 
 
@@ -114,5 +116,5 @@ Field Description: URL to the online manuscript catalog with digital images and 
 
 **License:** CC BY-NC
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDg4Mjg1MSwxMDQzNjUwNzk1XX0=
+eyJoaXN0b3J5IjpbMTQ5NTA4Njc4MywxMDQzNjUwNzk1XX0=
 -->
