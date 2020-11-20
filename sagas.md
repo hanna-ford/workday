@@ -12,7 +12,9 @@
 ||sagas_name | string | Sagas Name | Title of the written work (e.g. Laxdæla saga) |
 |x|sagas_sagaid | number | Sagas Sagaid | The unique saga identification number assigned in the Icelandic Saga Map (ISM) |
 |x|sagas_saganmae | string | Sagas Saganame | Title of the written work (e.g. Laxdæla saga) |
-| |sagas_type | string 
+| |sagas_type | string | Sagas Type (Place Type) | This is Place Type and the field should be renamed as such. Type of physical place, whether natural or manmade (e.g. farm, valley, harbor, etc.)|
+| | sagas_chapter | string | Sagas Chapter | Number of chapter within saga. (e.g. 1 kafli (Chapter 1)) |
+|
 
 
 
@@ -112,5 +114,5 @@ Field Description: URL to the online manuscript catalog with digital images and 
 
 **License:** CC BY-NC
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODE5MTE4NDcsMTA0MzY1MDc5NV19
+eyJoaXN0b3J5IjpbLTg5NDg4Mjg1MSwxMDQzNjUwNzk1XX0=
 -->
