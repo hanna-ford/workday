@@ -18,7 +18,10 @@
 ## Malcolm Williamson
 - Payroll Accounting Adjustment: Malcolm Williamson - 08/01/2020 - 08/31/2020
 
+## Manon Wilson
+- Payroll Accounting Adjustment: Manon Wilson - 08/01/2020 - 09/30/2020
+- Payroll Accounting Adjustment: Manon Wilson - 10/01/2020 - 10/31/2020
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NjY4NTI3MywxODUyOTg2MzIyXX0=
+eyJoaXN0b3J5IjpbMTc1MDk0NTgzNiwxODUyOTg2MzIyXX0=
 -->
