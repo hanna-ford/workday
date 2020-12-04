@@ -15,7 +15,10 @@
 ## Timothy Sexton
 - Payroll Accounting Adjustment: Timothy Sexton - 07/01/2020 - 10/31/2020
 
+## Malcolm Williamson
+- Payroll Accounting Adjustment: Malcolm Williamson - 08/01/2020 - 08/31/2020
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzA3NjY0NjYsMTg1Mjk4NjMyMl19
+eyJoaXN0b3J5IjpbMTE5NjY4NTI3MywxODUyOTg2MzIyXX0=
 -->
