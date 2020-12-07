@@ -10,10 +10,13 @@
 
 ## William G Johnston
 - Payroll Accounting Adjustment: William G Johnston - 08/01/2020 - 10/31/2020
-	- Impacts GR013480
+	- Impacts GR013480 (to)
+	- Impacts DS00847 (from)
 
 ## Clayton Sexton
 - Payroll Accounting Adjustment: Clayton Scott Sexton - 07/01/2020 - 09/30/2020
+	- Impacts GR004196
+	- 
 
 ## Timothy Sexton
 - Payroll Accounting Adjustment: Timothy Sexton - 07/01/2020 - 10/31/2020
@@ -26,6 +29,6 @@
 - Payroll Accounting Adjustment: Manon Wilson - 10/01/2020 - 10/31/2020
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc5MzE1NjkzLDE3NTA5NDU4MzYsMTg1Mj
+eyJoaXN0b3J5IjpbNjc0Nzg5NTk0LDE3NTA5NDU4MzYsMTg1Mj
 k4NjMyMl19
 -->
