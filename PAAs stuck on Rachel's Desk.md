@@ -15,7 +15,7 @@
 
 ## Clayton Sexton
 - Payroll Accounting Adjustment: Clayton Scott Sexton - 07/01/2020 - 09/30/2020
-	- Impacts GR004196 (to)
+	- Impacts GR004196 and PG002926  (to)
 	- Impacts PG002926 (from)
 
 ## Timothy Sexton
@@ -31,6 +31,6 @@
 - Payroll Accounting Adjustment: Manon Wilson - 10/01/2020 - 10/31/2020
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NTMyNDE2MCwxNzUwOTQ1ODM2LDE4NT
+eyJoaXN0b3J5IjpbMTkzODg1ODg2OSwxNzUwOTQ1ODM2LDE4NT
 I5ODYzMjJdfQ==
 -->
