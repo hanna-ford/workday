@@ -25,13 +25,14 @@
 
 ## Malcolm Williamson
 - Payroll Accounting Adjustment: Malcolm Williamson - 08/01/2020 - 08/31/2020
-	- Impacts GR007979
+	- Impacts GR007979, GR013387, and GR013480 (to)
+	- Impacts DS00847 (from)
 
 ## Manon Wilson
 - Payroll Accounting Adjustment: Manon Wilson - 08/01/2020 - 09/30/2020
 - Payroll Accounting Adjustment: Manon Wilson - 10/01/2020 - 10/31/2020
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MTg1NzQ1NSwxNzUwOTQ1ODM2LDE4NT
-I5ODYzMjJdfQ==
+eyJoaXN0b3J5IjpbODEwNzc0OTg5LDE3NTA5NDU4MzYsMTg1Mj
+k4NjMyMl19
 -->
