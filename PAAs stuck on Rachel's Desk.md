@@ -33,9 +33,10 @@
 	- Impacts GR003589, MG000723, PG002926, and GR008052 (to)
 	- Impacts GR003589, MG000723, and DS00847 (from)
 - Payroll Accounting Adjustment: Manon Wilson - 10/01/2020 - 10/31/2020
-	- 
+	- Impacts GR003589, MG000723, PG002926, and GR008052 (to)
+	- Impacts GR003589, MG000723, and DS00847 (from)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk0Njc5MTY5LDE3NTA5NDU4MzYsMTg1Mj
-k4NjMyMl19
+eyJoaXN0b3J5IjpbMTk3NDE0MDg4NywxNzUwOTQ1ODM2LDE4NT
+I5ODYzMjJdfQ==
 -->
