@@ -5,7 +5,7 @@
 
 ## Christopher Angel
 -  Costing Allocation: Christopher Angel - P00035460 Assistant Professor
--  Impacts  
+-  Impacts GR007995
 
 ## William G Johnston
 - Payroll Accounting Adjustment: William G Johnston - 08/01/2020 - 10/31/2020
@@ -24,6 +24,6 @@
 - Payroll Accounting Adjustment: Manon Wilson - 10/01/2020 - 10/31/2020
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNjEyOTE2NCwxNzUwOTQ1ODM2LDE4NT
+eyJoaXN0b3J5IjpbLTQxMTc1Njk4MywxNzUwOTQ1ODM2LDE4NT
 I5ODYzMjJdfQ==
 -->
