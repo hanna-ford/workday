@@ -3,10 +3,13 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 
-## Christopher Angel -- Waiting on Michelle Musial
--  Costing Allocation: Christopher Angel - P00035460 Assistant Professor
+## Christopher Angel 
+-  Costing Allocation: Christopher Angel - P00035460 Assistant Professor -- Waiting on Michelle Musial
 	-  Impacts GR007995 (to)
 	-  Impacts GR013045 (from)
+- Payroll Accounting Adjustment: Christopher Angel - 09/01/2020 - 09/30/2020 -- *Waiting on Chritopher Liner
+	-  Needed to correct his September charges - I had made a calculation error that was putting GR08148 in the red.
+	-  Starting the process of closing out AmericaView worktag (GR008148)
 
 ## William G Johnston -- 
 - Payroll Accounting Adjustment: William G Johnston - 08/01/2020 - 10/31/2020
@@ -36,16 +39,14 @@
 	- Impacts GR003589, MG000723, PG002926, and GR008052 (to)
 	- Impacts GR003589, MG000723, and DS00847 (from)
 
-## Vance Green -- Waiting on 
+## Vance Green -- Waiting on Yudith Torres
 - Payroll Accounting Adjustment: Vance S Green - 08/01/2020 - 08/31/2020
 	- We are trying to close out GR007979 so we can send them a bill.
 	-  Vance's charges have been showing up under NA object class for August with miscalculated fringes and incorrect IDC.
 	-  I changed the budget date on his PAAs to 9/30/2020; but am having second thoughts about whether this was the right thing to do to repair the charges.
 
-4.  Payroll Accounting Adjustment: Christopher Angel - 09/01/2020 - 09/30/2020
 
-5.  Needed to correct his September charges - I had made a calculation error that was putting GR08148 in the red.
-6.  Starting the process of closing out AmericaView worktag (GR008148)
+
 
 7.  Payroll Accounting Adjustment: Song Yang - 08/01/2020 - 08/31/2020
 
@@ -70,6 +71,6 @@
 20.  I changed the budget date on his PAAs to 9/30/2020; but am having second thoughts about whether this was the right thing to do to repair the charges.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NzIxMjAyOCwxOTc0MTQwODg3LDE3NT
-A5NDU4MzYsMTg1Mjk4NjMyMl19
+eyJoaXN0b3J5IjpbNzA5NDYwODM4LDE5NzQxNDA4ODcsMTc1MD
+k0NTgzNiwxODUyOTg2MzIyXX0=
 -->
