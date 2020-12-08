@@ -39,12 +39,13 @@ Current issues preventing closing:
 	* IDC is incorrect, after all corrections and PAAs should be a total of $3,432.82
 
 * PAAs needed of August:
-	* John Wilson Salary -- $2,116.63 on GR007979 NHAP MS/AL
-	* Malcolm Williamson Salary -- $1,201.25 on GR007979 NHAP MS/AL
+	~~* John Wilson Salary -- $2,116.63 on GR007979 NHAP MS/AL~~
+	~~ Malcolm Williamson Salary -- $1,201.25 on GR007979 NHAP MS/AL~~
+	
 
 ### September
 * PAAs needed for September:
-	* John Wilson Salary -- $1,999.00 on GR007979 NHAP MS/AL
+	~~* John Wilson Salary -- $1,999.00 on GR007979 NHAP MS/AL~~
 
 This should balance the account.
 
@@ -119,8 +120,8 @@ Current issues:
 
 * All RIF generated is coming to CAST...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NDE2MzQ0Miw2MjYxNTM4NDEsMjAzMT
-Q0MzY1Myw3ODkxNjA3NzYsLTE0MDE2MTk3NDcsODEwNjcyNzQy
-LC0xNjMyODIwMTIxLC03NjIwMDY5ODMsLTIwMzcyOTY4ODAsMT
-UyMTAwMzc5NywxNDQ5MTAxMTM3XX0=
+eyJoaXN0b3J5IjpbNjk3NDE1MTI4LDE4NzQxNjM0NDIsNjI2MT
+UzODQxLDIwMzE0NDM2NTMsNzg5MTYwNzc2LC0xNDAxNjE5NzQ3
+LDgxMDY3Mjc0MiwtMTYzMjgyMDEyMSwtNzYyMDA2OTgzLC0yMD
+M3Mjk2ODgwLDE1MjEwMDM3OTcsMTQ0OTEwMTEzN119
 -->
