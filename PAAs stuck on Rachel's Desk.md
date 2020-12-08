@@ -11,13 +11,13 @@
 	-  Needed to correct his September charges - I had made a calculation error that was putting GR08148 in the red.
 	-  Starting the process of closing out AmericaView worktag (GR008148)
 
-## William G Johnston -- 
-- Payroll Accounting Adjustment: William G Johnston - 08/01/2020 - 10/31/2020
+## William G Johnston 
+- Payroll Accounting Adjustment: William G Johnston - 08/01/2020 - 10/31/2020 -- **Waiting on Josh Gilgen**
 	- Impacts GR013480 (to)
 	- Impacts DS00847 (from)
 
 ## Clayton Sexton
-- Payroll Accounting Adjustment: Clayton Scott Sexton - 07/01/2020 - 09/30/2020
+- Payroll Accounting Adjustment: Clayton Scott Sexton - 07/01/2020 - 09/30/2020 -- **Waiting on Alex Ellis**
 	- Impacts GR004196 and PG002926  (to)
 	- Impacts PG002926 and DS00847 (from)
 
@@ -71,6 +71,6 @@
 20.  I changed the budget date on his PAAs to 9/30/2020; but am having second thoughts about whether this was the right thing to do to repair the charges.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NjIzOTgwMCwxOTc0MTQwODg3LDE3NT
-A5NDU4MzYsMTg1Mjk4NjMyMl19
+eyJoaXN0b3J5IjpbMTc5NTkwNzI3LDE5NzQxNDA4ODcsMTc1MD
+k0NTgzNiwxODUyOTg2MzIyXX0=
 -->
