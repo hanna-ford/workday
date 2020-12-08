@@ -35,12 +35,12 @@
 - Payroll Accounting Adjustment: Manon Wilson - 08/01/2020 - 09/30/2020 -- **Waiting on Alex Ellis and Joshua Gilgen**
 	- Impacts GR003589, MG000723, PG002926, and GR008052 (to)
 	- Impacts GR003589, MG000723, and DS00847 (from)
-- Payroll Accounting Adjustment: Manon Wilson - 10/01/2020 - 10/31/2020
+- Payroll Accounting Adjustment: Manon Wilson - 10/01/2020 - 10/31/2020 -- **Waiting on Alex Ellis and Joshua Gilgen**
 	- Impacts GR003589, MG000723, PG002926, and GR008052 (to)
 	- Impacts GR003589, MG000723, and DS00847 (from)
 
 ## Vance Green
-- Payroll Accounting Adjustment: Vance S Green - 08/01/2020 - 08/31/2020 -- **Waiting on Alex Ellis and Joshua Gilgen**
+- Payroll Accounting Adjustment: Vance S Green - 08/01/2020 - 08/31/2020 -- **Waiting on Yudith Torres**
 	- We are trying to close out GR007979 so we can send them a bill.
 	-  Vance's charges have been showing up under NA object class for August with miscalculated fringes and incorrect IDC.
 	-  I changed the budget date on his PAAs to 9/30/2020; but am having second thoughts about whether this was the right thing to do to repair the charges.
@@ -72,5 +72,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMDQyMDRdfQ==
+eyJoaXN0b3J5IjpbLTY4NjUzODU5Nl19
 -->
