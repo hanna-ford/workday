@@ -51,26 +51,20 @@
 	- Victoria's charges have been showing up under NA object class with miscalculated fringes and incorrect IDC.
 	- I changed the budget date on all three PAAs to 9/30/2020
 
+## Song Yang
+- Payroll Accounting Adjustment: Song Yang - 08/01/2020 - 08/31/2020 -- **Waiting on Shavawn Smith and Y**
+	- Charges were applied to the wrong worktag. Moving charges from GR013038 to GR013041.
+	- Trying to get Track 1 to a place we can bill accurately
 
-
-
-
-
-
-7.  Payroll Accounting Adjustment: Song Yang - 08/01/2020 - 08/31/2020
-
-8.  Charges were applied to the wrong worktag. Moving charges from GR013038 to GR013041.
-9.  Trying to get Track 1 to a place we can bill accurately
-
-10.  Payroll Accounting Adjustment: Douglas James Adams - 08/01/2020 - 08/31/2020
-
-11.  Charges were applied to the wrong worktag. Moving charges from GR013038 to GR013040.
-12.  Trying to get Track 1 to a place we can bill accurately
+## Douglas James Adams
+- Payroll Accounting Adjustment: Douglas James Adams - 08/01/2020 - 08/31/2020
+	- Charges were applied to the wrong worktag. Moving charges from GR013038 to GR013040.
+	- Trying to get Track 1 to a place we can bill accurately
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NjUzODU5Nl19
+eyJoaXN0b3J5IjpbOTI3NzI0NDYyXX0=
 -->
