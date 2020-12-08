@@ -4,10 +4,10 @@
 > Written with [StackEdit](https://stackedit.io/).
 
 ## Christopher Angel 
--  Costing Allocation: Christopher Angel - P00035460 Assistant Professor -- Waiting on Michelle Musial
+-  Costing Allocation: Christopher Angel - P00035460 Assistant Professor -- **Waiting on Michelle Musial**
 	-  Impacts GR007995 (to)
 	-  Impacts GR013045 (from)
-- Payroll Accounting Adjustment: Christopher Angel - 09/01/2020 - 09/30/2020 -- *Waiting on Chritopher Liner
+- Payroll Accounting Adjustment: Christopher Angel - 09/01/2020 - 09/30/2020 -- **Waiting on Chritopher Liner**
 	-  Needed to correct his September charges - I had made a calculation error that was putting GR08148 in the red.
 	-  Starting the process of closing out AmericaView worktag (GR008148)
 
@@ -71,6 +71,6 @@
 20.  I changed the budget date on his PAAs to 9/30/2020; but am having second thoughts about whether this was the right thing to do to repair the charges.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA5NDYwODM4LDE5NzQxNDA4ODcsMTc1MD
-k0NTgzNiwxODUyOTg2MzIyXX0=
+eyJoaXN0b3J5IjpbLTM4NjIzOTgwMCwxOTc0MTQwODg3LDE3NT
+A5NDU4MzYsMTg1Mjk4NjMyMl19
 -->
