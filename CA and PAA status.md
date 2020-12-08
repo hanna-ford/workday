@@ -32,10 +32,10 @@
 	- Impacts DS00847 (from)
 
 ## Manon Wilson
-- Payroll Accounting Adjustment: Manon Wilson - 08/01/2020 - 09/30/2020 -- **Waiting on Alex Ellis and Joshua Gilgen**
+- Payroll Accounting Adjustment: Manon Wilson - 08/01/2020 - 09/30/2020 -- **Successfully Completed!**
 	- Impacts GR003589, MG000723, PG002926, and GR008052 (to)
 	- Impacts GR003589, MG000723, and DS00847 (from)
-- Payroll Accounting Adjustment: Manon Wilson - 10/01/2020 - 10/31/2020 -- **Waiting on Alex Ellis and Joshua Gilgen**
+- Payroll Accounting Adjustment: Manon Wilson - 10/01/2020 - 10/31/2020 -- **Successfully Completed!**
 	- Impacts GR003589, MG000723, PG002926, and GR008052 (to)
 	- Impacts GR003589, MG000723, and DS00847 (from)
 
@@ -66,5 +66,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ0NzM5NzgxLDU5NTMwMTMzN119
+eyJoaXN0b3J5IjpbLTc2MjM3OTk5NSw1OTUzMDEzMzddfQ==
 -->
