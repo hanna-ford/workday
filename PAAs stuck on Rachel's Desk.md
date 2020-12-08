@@ -3,12 +3,12 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 
-## Christopher Angel
+## Christopher Angel -- Waiting on Michelle Musial
 -  Costing Allocation: Christopher Angel - P00035460 Assistant Professor
 	-  Impacts GR007995 (to)
 	-  Impacts GR013045 (from)
 
-## William G Johnston
+## William G Johnston -- 
 - Payroll Accounting Adjustment: William G Johnston - 08/01/2020 - 10/31/2020
 	- Impacts GR013480 (to)
 	- Impacts DS00847 (from)
@@ -36,7 +36,9 @@
 	- Impacts GR003589, MG000723, PG002926, and GR008052 (to)
 	- Impacts GR003589, MG000723, and DS00847 (from)
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NDE0MDg4NywxNzUwOTQ1ODM2LDE4NT
-I5ODYzMjJdfQ==
+eyJoaXN0b3J5IjpbMTAwNDQ2NTI5MywxOTc0MTQwODg3LDE3NT
+A5NDU4MzYsMTg1Mjk4NjMyMl19
 -->
