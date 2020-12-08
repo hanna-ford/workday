@@ -12,7 +12,7 @@
 	-  Starting the process of closing out AmericaView worktag (GR008148)
 
 ## William G Johnston 
-- Payroll Accounting Adjustment: William G Johnston - 08/01/2020 - 10/31/2020 -- **Waiting on Josh Gilgen**
+- Payroll Accounting Adjustment: William G Johnston - 08/01/2020 - 10/31/2020 -- **Successfully Completed!**
 	- Impacts GR013480 (to)
 	- Impacts DS00847 (from)
 
@@ -66,5 +66,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMTc5Mjc4MCw1OTUzMDEzMzddfQ==
+eyJoaXN0b3J5IjpbNTQ0NzM5NzgxLDU5NTMwMTMzN119
 -->
