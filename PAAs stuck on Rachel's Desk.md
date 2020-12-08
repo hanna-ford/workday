@@ -36,9 +36,40 @@
 	- Impacts GR003589, MG000723, PG002926, and GR008052 (to)
 	- Impacts GR003589, MG000723, and DS00847 (from)
 
+## Vance Green -- Waiting on 
+- Payroll Accounting Adjustment: Vance S Green - 08/01/2020 - 08/31/2020
+	- We are trying to close out GR007979 so we can send them a bill.
+	-  Vance's charges have been showing up under NA object class for August with miscalculated fringes and incorrect IDC.
+	-  I changed the budget date on his PAAs to 9/30/2020; but am having second thoughts about whether this was the right thing to do to repair the charges.
 
+4.  Payroll Accounting Adjustment: Christopher Angel - 09/01/2020 - 09/30/2020
+
+5.  Needed to correct his September charges - I had made a calculation error that was putting GR08148 in the red.
+6.  Starting the process of closing out AmericaView worktag (GR008148)
+
+7.  Payroll Accounting Adjustment: Song Yang - 08/01/2020 - 08/31/2020
+
+8.  Charges were applied to the wrong worktag. Moving charges from GR013038 to GR013041.
+9.  Trying to get Track 1 to a place we can bill accurately
+
+10.  Payroll Accounting Adjustment: Douglas James Adams - 08/01/2020 - 08/31/2020
+
+11.  Charges were applied to the wrong worktag. Moving charges from GR013038 to GR013040.
+12.  Trying to get Track 1 to a place we can bill accurately
+
+13.  Payroll Accounting Adjustment: Victoria Leigh Burton - 07/01/2020 - 08/15/2020
+
+14.  We are trying to close out GR007979 so we can send them a bill.
+15.  Victoria's charges have been showing up under NA object class with miscalculated fringes and incorrect IDC.
+16.  I changed the budget date on all three PAAs to 9/30/2020; but am having second thoughts about whether this was the right thing to do to repair the charges.
+
+17.  Payroll Accounting Adjustment: Vance S Green - 08/01/2020 - 08/31/2020
+
+18.  We are trying to close out GR007979 so we can send them a bill.
+19.  Vance's charges have been showing up under NA object class for August with miscalculated fringes and incorrect IDC.
+20.  I changed the budget date on his PAAs to 9/30/2020; but am having second thoughts about whether this was the right thing to do to repair the charges.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNDQ2NTI5MywxOTc0MTQwODg3LDE3NT
+eyJoaXN0b3J5IjpbLTI0NzIxMjAyOCwxOTc0MTQwODg3LDE3NT
 A5NDU4MzYsMTg1Mjk4NjMyMl19
 -->
