@@ -44,22 +44,12 @@
 	- We are trying to close out GR007979 so we can send them a bill.
 	-  Vance's charges have been showing up under NA object class for August with miscalculated fringes and incorrect IDC.
 	-  I changed the budget date on his PAAs to 9/30/2020; but am having second thoughts about whether this was the right thing to do to repair the charges.
-17.  Payroll Accounting Adjustment: Vance S Green - 08/01/2020 - 08/31/2020
-
-18.  We are trying to close out GR007979 so we can send them a bill.
-19.  Vance's charges have been showing up under NA object class for August with miscalculated fringes and incorrect IDC.
-20.  I changed the budget date on his PAAs to 9/30/2020; but am having second thoughts about whether this was the right thing to do to repair the charges.
-
-
-
-
 
 ## Victoria Burton
-13.  Payroll Accounting Adjustment: Victoria Leigh Burton - 07/01/2020 - 08/15/2020
-
-14.  We are trying to close out GR007979 so we can send them a bill.
-15.  Victoria's charges have been showing up under NA object class with miscalculated fringes and incorrect IDC.
-16.  I changed the budget date on all three PAAs to 9/30/2020; but am having second thoughts about whether this was the right thing to do to repair the charges.
+- Payroll Accounting Adjustment: Victoria Leigh Burton - 07/01/2020 - 08/15/2020 -- **Waiting on Yudith Torres**
+	- We are trying to close out GR007979 so we can send them a bill.
+	- Victoria's charges have been showing up under NA object class with miscalculated fringes and incorrect IDC.
+	- I changed the budget date on all three PAAs to 9/30/2020
 
 
 
@@ -82,5 +72,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3OTk3MTIwOF19
+eyJoaXN0b3J5IjpbMTAyMDQyMDRdfQ==
 -->
