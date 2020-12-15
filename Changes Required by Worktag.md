@@ -48,6 +48,13 @@ Current issues preventing closing:
 * PAAs needed for September:
 	~~* John Wilson Salary -- $1,999.00 on GR007979 NHAP MS/AL~~
 
+
+There are two additional tasks that I will need help with to wrap this one up:  
+
+-   We will need a manual journal to correct the fringe calculation for John Wilson's career service award ($64.81)
+
+-   The F&A charges are still lagging by more than just the difference in John's career service. My calculations show an F&A total of $41,124.82 @Kim Gillow had mentioned (maybe - I might have this wrong) there is an additional process and approvals that must be complete for the F&A to update? Does that sound like something that might be interfering?
+
 This should balance the account.
 
 
@@ -121,9 +128,9 @@ Current issues:
 
 * All RIF generated is coming to CAST...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NjU4NzMyMSw2OTc0MTUxMjgsMTg3ND
-E2MzQ0Miw2MjYxNTM4NDEsMjAzMTQ0MzY1Myw3ODkxNjA3NzYs
-LTE0MDE2MTk3NDcsODEwNjcyNzQyLC0xNjMyODIwMTIxLC03Nj
-IwMDY5ODMsLTIwMzcyOTY4ODAsMTUyMTAwMzc5NywxNDQ5MTAx
-MTM3XX0=
+eyJoaXN0b3J5IjpbLTI1NDY5NzA4LC03ODY1ODczMjEsNjk3ND
+E1MTI4LDE4NzQxNjM0NDIsNjI2MTUzODQxLDIwMzE0NDM2NTMs
+Nzg5MTYwNzc2LC0xNDAxNjE5NzQ3LDgxMDY3Mjc0MiwtMTYzMj
+gyMDEyMSwtNzYyMDA2OTgzLC0yMDM3Mjk2ODgwLDE1MjEwMDM3
+OTcsMTQ0OTEwMTEzN119
 -->
