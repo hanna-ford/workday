@@ -4,18 +4,19 @@ For RPT - Reported Time Blocks for a Worker, include the worktags (cost center, 
 For 
 
 
-## GR012016 // ORNL FMV
+## new: GR013715 // old: GR012016 // ORNL FMV
 ---
 Ended: July 31, 2020
 
 Current issues preventing closing:
 
-* Short $515.97 in Fringes: 
+~~* Short $515.97 in Fringes: 
 Fringe benefits for July 2020 are incorrect. They need to be re-calculated so that fringe is also applied to various leave types.
-
-* Short $6.04 in IDC: Trickle down effect of fringes being incorrect
+* Short $6.04 in IDC: Trickle down effect of fringes being incorrect~~
 
 Once these issues are resolved the total spend for July 2020 should be $37,535.74 AND the LTD total will be at $212,098.66 (which matches our records)
+
+ORNL issues have been largely resolved. PAAs are in progress to move July 2020 expenses over to the new worktag.
 
 
 ## GR007979 // NHAP MS/ AL
@@ -120,8 +121,9 @@ Current issues:
 
 * All RIF generated is coming to CAST...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk3NDE1MTI4LDE4NzQxNjM0NDIsNjI2MT
-UzODQxLDIwMzE0NDM2NTMsNzg5MTYwNzc2LC0xNDAxNjE5NzQ3
-LDgxMDY3Mjc0MiwtMTYzMjgyMDEyMSwtNzYyMDA2OTgzLC0yMD
-M3Mjk2ODgwLDE1MjEwMDM3OTcsMTQ0OTEwMTEzN119
+eyJoaXN0b3J5IjpbLTUxNTM2Mzg5MSw2OTc0MTUxMjgsMTg3ND
+E2MzQ0Miw2MjYxNTM4NDEsMjAzMTQ0MzY1Myw3ODkxNjA3NzYs
+LTE0MDE2MTk3NDcsODEwNjcyNzQyLC0xNjMyODIwMTIxLC03Nj
+IwMDY5ODMsLTIwMzcyOTY4ODAsMTUyMTAwMzc5NywxNDQ5MTAx
+MTM3XX0=
 -->
