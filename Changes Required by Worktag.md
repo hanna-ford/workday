@@ -10,11 +10,11 @@ Ended: July 31, 2020
 
 Current issues preventing closing:
 
-~~* Short $515.97 in Fringes: 
-Fringe benefits for July 2020 are incorrect. They need to be re-calculated so that fringe is also applied to various leave types.
-* Short $6.04 in IDC: Trickle down effect of fringes being incorrect~~
+~~~~* Short $515.97 in Fringes:~~ 
+~~Fringe benefits for July 2020 are incorrect. They need to be re-calculated so that fringe is also applied to various leave types.~~
+~~* Short $6.04 in IDC: Trickle down effect of fringes being incorrect~~~~
 
-Once these issues are resolved the total spend for July 2020 should be $37,535.74 AND the LTD total will be at $212,098.66 (which matches our records)
+~~Once these issues are resolved the total spend for July 2020 should be $37,535.74 AND the LTD total will be at $212,098.66 (which matches our records)~~
 
 ORNL issues have been largely resolved. PAAs are in progress to move July 2020 expenses over to the new worktag.
 
@@ -26,22 +26,22 @@ Ended: September 30, 2020
 Current issues preventing closing:
 
 ### July
-* Charges mis-categorized due to missing Object Class:
+~~* Charges mis-categorized due to missing Object Class:
 	* $592.50 (Victoria Burton - Salary) not listed under SC0193 Extra Help
 	* $34.60 (Victoria Burton - Fringe) not listed under SC0423 Fringe Rate Expense
-	* $307.28 (Victoria Burton - IDC) not calculated because S+F have no Object Class
+	* $307.28 (Victoria Burton - IDC) not calculated because S+F have no Object Class~~
 
 ### August
-* Charges mis-categorized due to missing Object Class:
+~~* Charges mis-categorized due to missing Object Class:
 	* $4,291.67 (Vance Green - Salary) not listed under SC0192 Regular Salaries because S+F have no Object Class
 	* $52.50 (Victoria Burton - Extra Help Wages) not listed under SC0193 Extra Help because S+F have no Object Class
 	* $1,138.58 (Vance Green - Fringe) not listed under SC0423 Fringe Rate Expense  because S+F have no Object Class and re-calculated so that fringe is also applied to various leave types; current fringe charge is only $704.76
 	* $3.07 (Victoria Burton - Fringe) not listed under SC0423 Fringe Rate Expense because S+F have no Object Class
-	* IDC is incorrect, after all corrections and PAAs should be a total of $3,432.82
+	* IDC is incorrect, after all corrections and PAAs should be a total of $3,432.82~~
 
 * PAAs needed of August:
-	~~* John Wilson Salary -- $2,116.63 on GR007979 NHAP MS/AL~~
-	~~ Malcolm Williamson Salary -- $1,201.25 on GR007979 NHAP MS/AL~~
+	~~John Wilson Salary -- $2,116.63 on GR007979 NHAP MS/AL~~
+	~~Malcolm Williamson Salary -- $1,201.25 on GR007979 NHAP MS/AL~~
 	
 
 ### September
@@ -121,7 +121,7 @@ Current issues:
 
 * All RIF generated is coming to CAST...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNTM2Mzg5MSw2OTc0MTUxMjgsMTg3ND
+eyJoaXN0b3J5IjpbLTc4NjU4NzMyMSw2OTc0MTUxMjgsMTg3ND
 E2MzQ0Miw2MjYxNTM4NDEsMjAzMTQ0MzY1Myw3ODkxNjA3NzYs
 LTE0MDE2MTk3NDcsODEwNjcyNzQyLC0xNjMyODIwMTIxLC03Nj
 IwMDY5ODMsLTIwMzcyOTY4ODAsMTUyMTAwMzc5NywxNDQ5MTAx
