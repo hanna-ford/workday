@@ -98,11 +98,11 @@ Current issues:
 	~~* An additional $45.64 should be charged to IDC; Trickle down impact to IDC from fringe (Seth Warn)~~~~
 ### August
 * PAAs needed:
-	* Seth Warn Salary - $1,080.08 to GR013045 Sandia (from GR007994)
-	* Jackson Cothren Salary - $2,899.36 to GR013045 Sandia (from PG002926)
+	~~* Seth Warn Salary - $1,080.08 to GR013045 Sandia (from GR007994)~~
+	~~* Jackson Cothren Salary - $2,899.36 to GR013045 Sandia (from PG002926)~~
 ### September
 * PAAs needed:
-	* Chris Angel Salary - $3,258.33 to GR008003 NIJ Fed Terrorism (from GR013045 Sandia)
+	~~* Chris Angel Salary - $3,258.33 to GR008003 NIJ Fed Terrorism (from GR013045 Sandia)~~
 
 **For GR013045,** this is the one that we need to get it correct so that we only have to make corrections (if needed) to December so that we can bill the sponsor by the end of December.  
 
@@ -133,9 +133,9 @@ Current issues:
 
 * All RIF generated is coming to CAST...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMDk3ODQ0NiwtNzg2NTg3MzIxLDY5Nz
-QxNTEyOCwxODc0MTYzNDQyLDYyNjE1Mzg0MSwyMDMxNDQzNjUz
-LDc4OTE2MDc3NiwtMTQwMTYxOTc0Nyw4MTA2NzI3NDIsLTE2Mz
-I4MjAxMjEsLTc2MjAwNjk4MywtMjAzNzI5Njg4MCwxNTIxMDAz
-Nzk3LDE0NDkxMDExMzddfQ==
+eyJoaXN0b3J5IjpbNzc2ODM2ODc4LC03ODY1ODczMjEsNjk3ND
+E1MTI4LDE4NzQxNjM0NDIsNjI2MTUzODQxLDIwMzE0NDM2NTMs
+Nzg5MTYwNzc2LC0xNDAxNjE5NzQ3LDgxMDY3Mjc0MiwtMTYzMj
+gyMDEyMSwtNzYyMDA2OTgzLC0yMDM3Mjk2ODgwLDE1MjEwMDM3
+OTcsMTQ0OTEwMTEzN119
 -->
