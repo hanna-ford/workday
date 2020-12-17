@@ -148,11 +148,11 @@ How to fix these issues:
 2.  For ANY invoice that was created pre-Workday and **paid AFTER July 1** we will have to 1) Create the customer (if needed) and 2) Create a new customer invoice; then coordinate with the Treasurer's Office to get the payment connected to the invoice and routed to the revenue account.
 3. The budget for this worktag needs to be reduced by a total of $5,005 
 	-- $2,600 for invoices created, but not paid before July 1 2020
-	-- $2,405 for the portion of the single check ($4,910) that was deposited into CostDir - but included payments for RA10173839
+	-- $2,405 for the portion of the single check ($4,910) that was deposited into CostDir - but included payments for RA10173839 (receipt in basis) and RA10174242 (no receipt in basis)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMyMTY0NDc5LDc3NjgzNjg3OCwtNzg2NT
-g3MzIxLDY5NzQxNTEyOCwxODc0MTYzNDQyLDYyNjE1Mzg0MSwy
-MDMxNDQzNjUzLDc4OTE2MDc3NiwtMTQwMTYxOTc0Nyw4MTA2Nz
-I3NDIsLTE2MzI4MjAxMjEsLTc2MjAwNjk4MywtMjAzNzI5Njg4
-MCwxNTIxMDAzNzk3LDE0NDkxMDExMzddfQ==
+eyJoaXN0b3J5IjpbMTE0NTEyNjI5Myw3NzY4MzY4NzgsLTc4Nj
+U4NzMyMSw2OTc0MTUxMjgsMTg3NDE2MzQ0Miw2MjYxNTM4NDEs
+MjAzMTQ0MzY1Myw3ODkxNjA3NzYsLTE0MDE2MTk3NDcsODEwNj
+cyNzQyLC0xNjMyODIwMTIxLC03NjIwMDY5ODMsLTIwMzcyOTY4
+ODAsMTUyMTAwMzc5NywxNDQ5MTAxMTM3XX0=
 -->
