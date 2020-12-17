@@ -141,7 +141,6 @@ Ends: August 31, 2021
 Workday things:
 -   If you run the RPT - Department Grant Budget vs Actual for GR003590 (MRI Program Revenue) it shows that there is a balance of $21,895.61 in the account. THIS IS INCORRECT.
 -   The ACTUAL BALANCE in the account is $16,890.61 and of that $8,522.39 are unspent pre-pay - so technically the available funds are $8,368.22 with the additional funds coming available as the pre-paid amount is drawn down.
-
   
 How to fix these issues:
 1.  For ANY invoice that was created pre-Workday and **not paid** we will have to:
@@ -154,9 +153,10 @@ How to fix these issues:
 	-- $2,600 for invoices created, but not paid before July 1 2020
 	-- $2,405 for the portion of the single check ($4,910) that was deposited into CostDir - but included payments for RA10173839 (receipt in basis) and RA10174242 (no receipt in basis)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQyNDQxODU2LDExNDUxMjYyOTMsNzc2OD
-M2ODc4LC03ODY1ODczMjEsNjk3NDE1MTI4LDE4NzQxNjM0NDIs
-NjI2MTUzODQxLDIwMzE0NDM2NTMsNzg5MTYwNzc2LC0xNDAxNj
-E5NzQ3LDgxMDY3Mjc0MiwtMTYzMjgyMDEyMSwtNzYyMDA2OTgz
-LC0yMDM3Mjk2ODgwLDE1MjEwMDM3OTcsMTQ0OTEwMTEzN119
+eyJoaXN0b3J5IjpbLTk1MTMxMDE2MiwzNDI0NDE4NTYsMTE0NT
+EyNjI5Myw3NzY4MzY4NzgsLTc4NjU4NzMyMSw2OTc0MTUxMjgs
+MTg3NDE2MzQ0Miw2MjYxNTM4NDEsMjAzMTQ0MzY1Myw3ODkxNj
+A3NzYsLTE0MDE2MTk3NDcsODEwNjcyNzQyLC0xNjMyODIwMTIx
+LC03NjIwMDY5ODMsLTIwMzcyOTY4ODAsMTUyMTAwMzc5NywxND
+Q5MTAxMTM3XX0=
 -->
