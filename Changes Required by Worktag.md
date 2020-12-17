@@ -152,14 +152,15 @@ How to fix these issues:
 4. The budget for this worktag needs to be reduced by a total of $5,005 
 	-- $2,600 for invoices created, but not paid before July 1 2020 -- DO NOT RE-CREATE THESE INVOICES
 	-- $2,405 for the portion of the single check ($4,910) that was deposited into CostDir - but included payments for RA10173839 (receipt in basis) and RA10174242 (no receipt in basis)
+	-- RA10174242 (no receipt in basis) needs to be cancelled $2,000
 
 
 Reduce revenue
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTIzNzY3MTMsLTk1MTMxMDE2MiwzND
-I0NDE4NTYsMTE0NTEyNjI5Myw3NzY4MzY4NzgsLTc4NjU4NzMy
-MSw2OTc0MTUxMjgsMTg3NDE2MzQ0Miw2MjYxNTM4NDEsMjAzMT
-Q0MzY1Myw3ODkxNjA3NzYsLTE0MDE2MTk3NDcsODEwNjcyNzQy
-LC0xNjMyODIwMTIxLC03NjIwMDY5ODMsLTIwMzcyOTY4ODAsMT
-UyMTAwMzc5NywxNDQ5MTAxMTM3XX0=
+eyJoaXN0b3J5IjpbODIzMzIzMDQ4LC05NTEzMTAxNjIsMzQyND
+QxODU2LDExNDUxMjYyOTMsNzc2ODM2ODc4LC03ODY1ODczMjEs
+Njk3NDE1MTI4LDE4NzQxNjM0NDIsNjI2MTUzODQxLDIwMzE0ND
+M2NTMsNzg5MTYwNzc2LC0xNDAxNjE5NzQ3LDgxMDY3Mjc0Miwt
+MTYzMjgyMDEyMSwtNzYyMDA2OTgzLC0yMDM3Mjk2ODgwLDE1Mj
+EwMDM3OTcsMTQ0OTEwMTEzN119
 -->
