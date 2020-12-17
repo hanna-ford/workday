@@ -138,29 +138,42 @@ Current issues:
 ---
 Ends: August 31, 2021
 
+
 Workday things:
+
 -   If you run the RPT - Department Grant Budget vs Actual for GR003590 (MRI Program Revenue) it shows that there is a balance of $21,895.61 in the account. THIS IS INCORRECT.
--   The ACTUAL BALANCE in the account is $16,890.61 and of that $8,522.39 are unspent pre-pay - so technically the available funds are $8,368.22 with the additional funds coming available as the pre-paid amount is drawn down.
-  
-How to fix these issues:
-1.  For ANY invoice that was created pre-Workday and **not paid** we will have to:
-	 -- Create the customer (if needed)
-	 -- Create a new customer invoice.
-2.  For ANY invoice that was created pre-Workday and **paid AFTER July 1** we will have to:
-	-- Create the customer (if needed) 
-	-- Create a new customer invoice; then coordinate with the Treasurer's Office to get the payment connected to the invoice and routed to the revenue account.
-4. The budget for this worktag needs to be reduced by a total of $5,005 
-	-- $2,600 for invoices created, but not paid before July 1 2020 -- DO NOT RE-CREATE THESE INVOICES
-	-- $2,405 for the portion of the single check ($4,910) that was deposited into CostDir - but included payments for RA10173839 (receipt in basis) and RA10174242 (no receipt in basis)
-	-- RA10174242 (no receipt in basis) needs to be cancelled $2,000
+-   The ACTUAL BALANCE in the account is $17,395.61 and of that $8,522.39 are unspent pre-pay - so technically the available funds are $8,873.22 with the additional funds coming available as the pre-paid amount is drawn down.  
+    
+-   Please note that going forward we CANNOT receive cash payments under any circumstances.
 
+I can go into great detail about what happened (it all starts in Feb 2019 with the first payment 😬), but that should probably be reserved for a show-and-tell phone call. I spent most of Monday and Tuesday trying to un-ravel this: including 2 hours on the phone with Kim Gillow explaining it to her and trying to figure out what we can do to balance this account. We had a call with OSP this morning and we have the first several steps toward balancing the account mapped out.
 
-Reduce revenue
+The to-do list:
+
+-- I am going to work with OSP to document and correct $2000 in double-counted revenue.
+ 
+-- For internal invoices, I have already sent that information to Kim G. and she is going to process the manual journals needed to debit those funds from internal customers.
+ 
+-- For the cash payment of $30 from David Desrochers:
+ -   We will need a W9 from him so we can establish him as a customer in WD;
+-   Then we have to create a customer invoice;
+-   Then one of us has to write a check for $30.00 in exchange for the $30.00 cash;
+-   Then we can deposit the payment to the customer invoice.
+ 
+-- For RA10178034, we are waiting on the Treasurer's office to let us know if they have received and deposited the check sent by OKState to determine if we need to have them cancel the check and re-issue for $500 OR if we will have to refund them $2000.  
+
+@Manon Wilson: If you could please send me the contact information for David Desrochers (email and phone number) then I will ask Devanee to help us track down and get a W9 from him.
+
+I also need you to look at the following line items and verify their accuracy and send copies of their MICRO statements:
+
+-   RA10186150 Shanon Rusk Dooley/Eric McElroy $1000 goes with MICRO Statement 43
+-   RA10186873 College of Charleston (Eric McElroy and Shannon Dool) $1000 and has no MICRO Statement associated
+-   No U of A Invoice Sam Stephens/Jexpert $180 and has no MICRO Statement associated
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIzMzIzMDQ4LC05NTEzMTAxNjIsMzQyND
-QxODU2LDExNDUxMjYyOTMsNzc2ODM2ODc4LC03ODY1ODczMjEs
-Njk3NDE1MTI4LDE4NzQxNjM0NDIsNjI2MTUzODQxLDIwMzE0ND
-M2NTMsNzg5MTYwNzc2LC0xNDAxNjE5NzQ3LDgxMDY3Mjc0Miwt
-MTYzMjgyMDEyMSwtNzYyMDA2OTgzLC0yMDM3Mjk2ODgwLDE1Mj
-EwMDM3OTcsMTQ0OTEwMTEzN119
+eyJoaXN0b3J5IjpbLTUyNDQ5MjY2Niw4MjMzMjMwNDgsLTk1MT
+MxMDE2MiwzNDI0NDE4NTYsMTE0NTEyNjI5Myw3NzY4MzY4Nzgs
+LTc4NjU4NzMyMSw2OTc0MTUxMjgsMTg3NDE2MzQ0Miw2MjYxNT
+M4NDEsMjAzMTQ0MzY1Myw3ODkxNjA3NzYsLTE0MDE2MTk3NDcs
+ODEwNjcyNzQyLC0xNjMyODIwMTIxLC03NjIwMDY5ODMsLTIwMz
+cyOTY4ODAsMTUyMTAwMzc5NywxNDQ5MTAxMTM3XX0=
 -->
