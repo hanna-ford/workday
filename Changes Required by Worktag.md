@@ -32,21 +32,22 @@ Current issues preventing closing:
 	 ~~$307.28 (Victoria Burton - IDC) not calculated because S+F have no Object Class~~
 
 ### August
-~~* Charges mis-categorized due to missing Object Class:
-	* $4,291.67 (Vance Green - Salary) not listed under SC0192 Regular Salaries because S+F have no Object Class
-	* $52.50 (Victoria Burton - Extra Help Wages) not listed under SC0193 Extra Help because S+F have no Object Class
-	* $1,138.58 (Vance Green - Fringe) not listed under SC0423 Fringe Rate Expense  because S+F have no Object Class and re-calculated so that fringe is also applied to various leave types; current fringe charge is only $704.76
-	* $3.07 (Victoria Burton - Fringe) not listed under SC0423 Fringe Rate Expense because S+F have no Object Class
-	* IDC is incorrect, after all corrections and PAAs should be a total of $3,432.82~~
+~~Charges mis-categorized due to missing Object Class:~~
+	~~$4,291.67 (Vance Green - Salary) not listed under SC0192 Regular Salaries because S+F have no Object Class~~
+	~~$52.50 (Victoria Burton - Extra Help Wages) not listed under SC0193 Extra Help because S+F have no Object Class~~
+	~~$1,138.58 (Vance Green - Fringe) not listed under SC0423 Fringe Rate Expense  because S+F have no Object Class and re-calculated so that fringe is also applied to various leave types; current fringe charge is only $704.76~~
+	~~$3.07 (Victoria Burton - Fringe) not listed under SC0423 Fringe Rate Expense because S+F have no Object Class~~
+	~~IDC is incorrect, after all corrections and PAAs should be a total of $3,432.82~~
 
-* PAAs needed of August:
+~~PAAs needed of August:~~
 	~~John Wilson Salary -- $2,116.63 on GR007979 NHAP MS/AL~~
 	~~Malcolm Williamson Salary -- $1,201.25 on GR007979 NHAP MS/AL~~
 	
 
 ### September
 * PAAs needed for September:
-	~~* John Wilson Salary -- $1,999.00 on GR007979 NHAP MS/AL~~
+	~~John Wilson Salary -- $1,999.00 on GR007979 NHAP MS/AL~~
+	*Malcolm Williamson -- 
 
 
 There are two additional tasks that I will need help with to wrap this one up:  
@@ -170,11 +171,11 @@ I also need you to look at the following line items and verify their accuracy an
 -   RA10186873 College of Charleston (Eric McElroy and Shannon Dool) $1000 and has no MICRO Statement associated
 -   No U of A Invoice Sam Stephens/Jexpert $180 and has no MICRO Statement associated
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA1MjYyNjE0LC01MjQ0OTI2NjYsODIzMz
-IzMDQ4LC05NTEzMTAxNjIsMzQyNDQxODU2LDExNDUxMjYyOTMs
-Nzc2ODM2ODc4LC03ODY1ODczMjEsNjk3NDE1MTI4LDE4NzQxNj
-M0NDIsNjI2MTUzODQxLDIwMzE0NDM2NTMsNzg5MTYwNzc2LC0x
-NDAxNjE5NzQ3LDgxMDY3Mjc0MiwtMTYzMjgyMDEyMSwtNzYyMD
-A2OTgzLC0yMDM3Mjk2ODgwLDE1MjEwMDM3OTcsMTQ0OTEwMTEz
-N119
+eyJoaXN0b3J5IjpbMTQyMzcwNDg5MiwtNTI0NDkyNjY2LDgyMz
+MyMzA0OCwtOTUxMzEwMTYyLDM0MjQ0MTg1NiwxMTQ1MTI2Mjkz
+LDc3NjgzNjg3OCwtNzg2NTg3MzIxLDY5NzQxNTEyOCwxODc0MT
+YzNDQyLDYyNjE1Mzg0MSwyMDMxNDQzNjUzLDc4OTE2MDc3Niwt
+MTQwMTYxOTc0Nyw4MTA2NzI3NDIsLTE2MzI4MjAxMjEsLTc2Mj
+AwNjk4MywtMjAzNzI5Njg4MCwxNTIxMDAzNzk3LDE0NDkxMDEx
+MzddfQ==
 -->
