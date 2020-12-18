@@ -10,9 +10,9 @@ Ended: July 31, 2020
 
 Current issues preventing closing:
 
-~~~~* Short $515.97 in Fringes:~~ 
-~~Fringe benefits for July 2020 are incorrect. They need to be re-calculated so that fringe is also applied to various leave types.~~
-~~* Short $6.04 in IDC: Trickle down effect of fringes being incorrect~~~~
+~~Short $515.97 in Fringes:~~ 
+~~Fringe benefits for July 2020 are incorrect. They need to be re-calculated so that fringe is also applied to various leave types~~
+~~Short $6.04 in IDC: Trickle down effect of fringes being incorrect~~
 
 ~~Once these issues are resolved the total spend for July 2020 should be $37,535.74 AND the LTD total will be at $212,098.66 (which matches our records)~~
 
@@ -26,10 +26,10 @@ Ended: September 30, 2020
 Current issues preventing closing:
 
 ### July
-~~* Charges mis-categorized due to missing Object Class:
-	* $592.50 (Victoria Burton - Salary) not listed under SC0193 Extra Help
-	* $34.60 (Victoria Burton - Fringe) not listed under SC0423 Fringe Rate Expense
-	* $307.28 (Victoria Burton - IDC) not calculated because S+F have no Object Class~~
+~~Charges mis-categorized due to missing Object Class:~~
+	 ~~$592.50 (Victoria Burton - Salary) not listed under SC0193 Extra Help~~
+	 ~~$34.60 (Victoria Burton - Fringe) not listed under SC0423 Fringe Rate Expense~~
+	 ~~$307.28 (Victoria Burton - IDC) not calculated because S+F have no Object Class~~
 
 ### August
 ~~* Charges mis-categorized due to missing Object Class:
@@ -170,10 +170,11 @@ I also need you to look at the following line items and verify their accuracy an
 -   RA10186873 College of Charleston (Eric McElroy and Shannon Dool) $1000 and has no MICRO Statement associated
 -   No U of A Invoice Sam Stephens/Jexpert $180 and has no MICRO Statement associated
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNDQ5MjY2Niw4MjMzMjMwNDgsLTk1MT
-MxMDE2MiwzNDI0NDE4NTYsMTE0NTEyNjI5Myw3NzY4MzY4Nzgs
-LTc4NjU4NzMyMSw2OTc0MTUxMjgsMTg3NDE2MzQ0Miw2MjYxNT
-M4NDEsMjAzMTQ0MzY1Myw3ODkxNjA3NzYsLTE0MDE2MTk3NDcs
-ODEwNjcyNzQyLC0xNjMyODIwMTIxLC03NjIwMDY5ODMsLTIwMz
-cyOTY4ODAsMTUyMTAwMzc5NywxNDQ5MTAxMTM3XX0=
+eyJoaXN0b3J5IjpbNzA1MjYyNjE0LC01MjQ0OTI2NjYsODIzMz
+IzMDQ4LC05NTEzMTAxNjIsMzQyNDQxODU2LDExNDUxMjYyOTMs
+Nzc2ODM2ODc4LC03ODY1ODczMjEsNjk3NDE1MTI4LDE4NzQxNj
+M0NDIsNjI2MTUzODQxLDIwMzE0NDM2NTMsNzg5MTYwNzc2LC0x
+NDAxNjE5NzQ3LDgxMDY3Mjc0MiwtMTYzMjgyMDEyMSwtNzYyMD
+A2OTgzLC0yMDM3Mjk2ODgwLDE1MjEwMDM3OTcsMTQ0OTEwMTEz
+N119
 -->
