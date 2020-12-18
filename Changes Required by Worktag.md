@@ -50,11 +50,13 @@ Current issues preventing closing:
 	*Malcolm Williamson -- $25.42 from GR013387 to GR007979; submitted 12/18/2020
 
 
-There are two additional tasks that I will need help with to wrap this one up:  
+There are three additional tasks that I will need help with to wrap this one up:  
 
--   We will need a manual journal to correct the fringe calculation for John Wilson's career service award ($64.81)
+- PAA for Malcolm Williamson -- $25.42 from GR013387 to GR007979; submitted 12/18/2020
 
--   The F&A charges are still lagging by more than just the difference in John's career service. My calculations show an F&A total of $41,124.82 @Kim Gillow had mentioned (maybe - I might have this wrong) there is an additional process and approvals that must be complete for the F&A to update? Does that sound like something that might be interfering?
+-  Re-check balances after the above PAA is complete. 
+
+-  The F&A charges are still lagging My calculations show an F&A total of $41,124.82 @Kim Gillow had mentioned (maybe - I might have this wrong) there is an additional process and approvals that must be complete for the F&A to update? Does that sound like something that might be interfering?
 
 This should balance the account.
 
@@ -171,11 +173,11 @@ I also need you to look at the following line items and verify their accuracy an
 -   RA10186873 College of Charleston (Eric McElroy and Shannon Dool) $1000 and has no MICRO Statement associated
 -   No U of A Invoice Sam Stephens/Jexpert $180 and has no MICRO Statement associated
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQwODUwMjc0LC01MjQ0OTI2NjYsODIzMz
-IzMDQ4LC05NTEzMTAxNjIsMzQyNDQxODU2LDExNDUxMjYyOTMs
-Nzc2ODM2ODc4LC03ODY1ODczMjEsNjk3NDE1MTI4LDE4NzQxNj
-M0NDIsNjI2MTUzODQxLDIwMzE0NDM2NTMsNzg5MTYwNzc2LC0x
-NDAxNjE5NzQ3LDgxMDY3Mjc0MiwtMTYzMjgyMDEyMSwtNzYyMD
-A2OTgzLC0yMDM3Mjk2ODgwLDE1MjEwMDM3OTcsMTQ0OTEwMTEz
-N119
+eyJoaXN0b3J5IjpbLTE0NDI5NjY3NTAsLTUyNDQ5MjY2Niw4Mj
+MzMjMwNDgsLTk1MTMxMDE2MiwzNDI0NDE4NTYsMTE0NTEyNjI5
+Myw3NzY4MzY4NzgsLTc4NjU4NzMyMSw2OTc0MTUxMjgsMTg3ND
+E2MzQ0Miw2MjYxNTM4NDEsMjAzMTQ0MzY1Myw3ODkxNjA3NzYs
+LTE0MDE2MTk3NDcsODEwNjcyNzQyLC0xNjMyODIwMTIxLC03Nj
+IwMDY5ODMsLTIwMzcyOTY4ODAsMTUyMTAwMzc5NywxNDQ5MTAx
+MTM3XX0=
 -->
