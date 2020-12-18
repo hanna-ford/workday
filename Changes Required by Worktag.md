@@ -47,7 +47,7 @@ Current issues preventing closing:
 ### September
 * PAAs needed for September:
 	~~John Wilson Salary -- $1,999.00 on GR007979 NHAP MS/AL~~
-	*Malcolm Williamson -- 
+	*Malcolm Williamson -- $25.42 from GR013387 to GR007979; submitted 12/18/2020
 
 
 There are two additional tasks that I will need help with to wrap this one up:  
@@ -171,11 +171,11 @@ I also need you to look at the following line items and verify their accuracy an
 -   RA10186873 College of Charleston (Eric McElroy and Shannon Dool) $1000 and has no MICRO Statement associated
 -   No U of A Invoice Sam Stephens/Jexpert $180 and has no MICRO Statement associated
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMzcwNDg5MiwtNTI0NDkyNjY2LDgyMz
-MyMzA0OCwtOTUxMzEwMTYyLDM0MjQ0MTg1NiwxMTQ1MTI2Mjkz
-LDc3NjgzNjg3OCwtNzg2NTg3MzIxLDY5NzQxNTEyOCwxODc0MT
-YzNDQyLDYyNjE1Mzg0MSwyMDMxNDQzNjUzLDc4OTE2MDc3Niwt
-MTQwMTYxOTc0Nyw4MTA2NzI3NDIsLTE2MzI4MjAxMjEsLTc2Mj
-AwNjk4MywtMjAzNzI5Njg4MCwxNTIxMDAzNzk3LDE0NDkxMDEx
-MzddfQ==
+eyJoaXN0b3J5IjpbNTQwODUwMjc0LC01MjQ0OTI2NjYsODIzMz
+IzMDQ4LC05NTEzMTAxNjIsMzQyNDQxODU2LDExNDUxMjYyOTMs
+Nzc2ODM2ODc4LC03ODY1ODczMjEsNjk3NDE1MTI4LDE4NzQxNj
+M0NDIsNjI2MTUzODQxLDIwMzE0NDM2NTMsNzg5MTYwNzc2LC0x
+NDAxNjE5NzQ3LDgxMDY3Mjc0MiwtMTYzMjgyMDEyMSwtNzYyMD
+A2OTgzLC0yMDM3Mjk2ODgwLDE1MjEwMDM3OTcsMTQ0OTEwMTEz
+N119
 -->
