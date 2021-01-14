@@ -177,7 +177,7 @@ Field Description: URL to the online manuscript catalog with digital images and 
 **Field List:**
 
 | Field Name | Field Type | Field Title | Field Description |
-|:----|:--------------------|:--------------------:|:--------------------:|:--------------------|
+|:----|:--------------------|:--------------------:|:--------------------|
 |type | string | Type | The type of geometry being stored. |
 |coordinates | number | Coordinates | The coordinates for the geometry. Note that this field will alwasy be NULL in this dataset. |
 |title | string | Title | This title reflects the document title as listed on the NABO Publications website for the report and/or publication being referenced in the record. |
@@ -194,7 +194,7 @@ Field Description: URL to the online manuscript catalog with digital images and 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MTUzMzA0NSwtOTI2NDU3NDU4LDIwMz
+eyJoaXN0b3J5IjpbLTUwODkwNjIyNywtOTI2NDU3NDU4LDIwMz
 A2Njk0OTAsLTE3MTk2NTg1OTgsLTY1NjcyMzk1MiwxMDQzNjUw
 Nzk1XX0=
 -->
