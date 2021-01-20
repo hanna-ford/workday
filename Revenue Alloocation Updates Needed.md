@@ -4,8 +4,8 @@
 > Written with [StackEdit](https://stackedit.io/).
 
 - RAP is incorrect; should be updated to UAF | Arts & Sciences-RIF Ncri-CAST Federal
--- AWD-100182: UAF | The Digital Documentation of Petroglyphs at 07/01/2020 (version 0)
---AWD-100474: UAF | SAROI: Spatial Archaeology Residential and O 09/01/2020 (version 0)
+
+
 AWD-100275: UAF | SERVIR-Amazonia 09/01/2019 (version 0)
 -- AWD-100452: UAF | Autonomous and Rigorous Photogrammetric Loca 02/18/2020 (version 0)
 -- AV18-AR01: StateView Program Development and Operations for t 09/18/2018 (version 1)
@@ -13,7 +13,7 @@ AWD-100275: UAF | SERVIR-Amazonia 09/01/2019 (version 0)
 -- AWD-100451: UAF | Orthorectification of NHAP 1 and 2 Imagery S 09/30/2020 (version 1)
 -- AWD-100259: UAF | StateView Program Development and Operations 09/18/2020 (version 0)
 --AV18--AR-01 MOD 001: StateView Program Development&Operations for the S 09/18/2019 (version 1)
---
+-- AWD-100306: UAF | Bringing the restoration of President Madiso 10/01/2019 (version 0)
 
 
 - RAP is incorrect; should be updated to OTHER RAP (not CAST)
@@ -34,6 +34,6 @@ AWD-100275: UAF | SERVIR-Amazonia 09/01/2019 (version 0)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjU2NDA1NywtMTEwODI3NTY1NywxNj
+eyJoaXN0b3J5IjpbMTE1OTkzMjA5NiwtMTEwODI3NTY1NywxNj
 c5MDEwMDgyLC0xNjM0MDY3MzkyXX0=
 -->
