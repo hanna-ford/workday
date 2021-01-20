@@ -5,9 +5,10 @@
 
 - RAP is incorrect; should be updated to UAF | Arts & Sciences-RIF Ncri-CAST Federal
 
+-- AWD-100275: UAF | SERVIR-Amazonia 09/01/2019 (version 0)
 
-AWD-100275: UAF | SERVIR-Amazonia 09/01/2019 (version 0)
 -- AWD-100452: UAF | Autonomous and Rigorous Photogrammetric Loca 02/18/2020 (version 0)
+
 -- AV18-AR01: StateView Program Development and Operations for t 09/18/2018 (version 1)
 -- AWD-100265: UAF | Automated Orthorectification of Additional H 09/07/2019 (version 0)
 -- AWD-100451: UAF | Orthorectification of NHAP 1 and 2 Imagery S 09/30/2020 (version 1)
@@ -31,9 +32,11 @@ AWD-100275: UAF | SERVIR-Amazonia 09/01/2019 (version 0)
 
 
 
+CENTER RIF Does NOT APPLY -- AWD-100182: UAF | The Digital Documentation of Petroglyphs at 07/01/2020 (version 0)
 
+CENTER RIF Does NOT APPLY --AWD-100474: UAF | SAROI: Spatial Archaeology Residential and O 09/01/2020 (version 0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTkzMjA5NiwtMTEwODI3NTY1NywxNj
+eyJoaXN0b3J5IjpbMTUzMzgwNTAyNCwtMTEwODI3NTY1NywxNj
 c5MDEwMDgyLC0xNjM0MDY3MzkyXX0=
 -->
