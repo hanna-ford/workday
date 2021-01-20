@@ -16,9 +16,10 @@ AWD-100275: UAF | SERVIR-Amazonia 09/01/2019 (version 0)
 
 
 
-- RAP is correct; but on Summary page; the Organizations for Award should be Cost Center: CC012705 UAF | CAST | Center For Advanced Spatial Technologies. Not sure if that is important
+- On Summary page; the Organizations for Award should be Cost Center: CC012705 UAF | CAST | Center For Advanced Spatial Technologies. Not sure if that is important
 -- P17AC00778: Carlsbad Caverns Digital Documentation 06/06/2017 (version 0)
 -- P10AP00236: Rising Above in AR: Japanese American Incarceratio 09/01/2019 (version 0)
+-- P17AC00778: Carlsbad Caverns Digital Documentation 06/06/2017 (version 0)
 -- AWD-100452: UAF | Autonomous and Rigorous Photogrammetric Loca 02/18/2020 (version 0)
 
 
@@ -28,6 +29,6 @@ AWD-100275: UAF | SERVIR-Amazonia 09/01/2019 (version 0)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDMxNTAwNzksMTY3OTAxMDA4MiwtMT
+eyJoaXN0b3J5IjpbLTExMDgyNzU2NTcsMTY3OTAxMDA4MiwtMT
 YzNDA2NzM5Ml19
 -->
