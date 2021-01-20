@@ -5,7 +5,11 @@
 
 - RAP is incorrect; should be updated to UAF | Arts & Sciences-RIF Ncri-CAST Federal
 -- AWD-100182: UAF | The Digital Documentation of Petroglyphs at 07/01/2020 (version 0)
--- AWD-000250: UAF | EPSCoR Track 1 Data Science | Data Analytics 07/01/2020 (version 3); RAP is incorrect on most worktags; a list has been sent to Jenny for updates
+--AWD-100474: UAF | SAROI: Spatial Archaeology Residential and O 09/01/2020 (version 0)
+AWD-100275: UAF | SERVIR-Amazonia 09/01/2019 (version 0)
+
+-- AWD-000250: UAF | EPSCoR Track 1 Data Science | Data Analytics 07/01/2020 (version 3); RAP is incorrect on most worktags - currently they are ALL set to point at CAST; a list has been sent to Jenny for updates
+
 
 
 - RAP is correct; but on Summary page; the Organizations for Award should be Cost Center: CC012705 UAF | CAST | Center For Advanced Spatial Technologies. Not sure if that is important
@@ -19,5 +23,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDAwMzAxMiwtMTYzNDA2NzM5Ml19
+eyJoaXN0b3J5IjpbMTY4NTQxNDM4NiwtMTYzNDA2NzM5Ml19
 -->
