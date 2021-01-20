@@ -13,10 +13,6 @@
 
 -- AWD-100451: UAF | Orthorectification of NHAP 1 and 2 Imagery S 09/30/2020 (version 1)
 
--- AWD-100259: UAF | StateView Program Development and Operations 09/18/2020 (version 0)
-
---AV18--AR-01 MOD 001: StateView Program Development&Operations for the S 09/18/2019 (version 1)
-
 -- AWD-100306: UAF | Bringing the restoration of President Madiso 10/01/2019 (version 0)
 
 
@@ -35,13 +31,19 @@
 
 
 
-CENTER RIF Does NOT APPLY -- AWD-100182: UAF | The Digital Documentation of Petroglyphs at 07/01/2020 (version 0)
+CENTER RIF Does NOT APPLY AWD-100182: UAF | The Digital Documentation of Petroglyphs at 07/01/2020 (version 0)
 
-CENTER RIF Does NOT APPLY --AWD-100474: UAF | SAROI: Spatial Archaeology Residential and O 09/01/2020 (version 0)
+CENTER RIF Does NOT APPLY AWD-100474: UAF | SAROI: Spatial Archaeology Residential and O 09/01/2020 (version 0)
 
-CENTER RIF Does NOT APPLY -- AV18-AR01: StateView Program Development and Operations for t 09/18/2018 (version 1)
+CENTER RIF Does NOT APPLY
+AV18-AR01: StateView Program Development and Operations for t 09/18/2018 (version 1)
+
+CENTER RIF Does NOT APPLY
+AWD-100259: UAF | StateView Program Development and Operations 09/18/2020 (version 0)
+
+CENTER RIF Does NOT APPLY AV18--AR-01 MOD 001: StateView Program Development&Operations for the S 09/18/2019 (version 1)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDQ5MzY0NTIsLTExMDgyNzU2NTcsMT
-Y3OTAxMDA4MiwtMTYzNDA2NzM5Ml19
+eyJoaXN0b3J5IjpbMTY1NTI2NjQ1MCwtMTEwODI3NTY1NywxNj
+c5MDEwMDgyLC0xNjM0MDY3MzkyXX0=
 -->
