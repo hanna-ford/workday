@@ -8,6 +8,7 @@
 --AWD-100474: UAF | SAROI: Spatial Archaeology Residential and O 09/01/2020 (version 0)
 AWD-100275: UAF | SERVIR-Amazonia 09/01/2019 (version 0)
 -- AWD-100452: UAF | Autonomous and Rigorous Photogrammetric Loca 02/18/2020 (version 0)
+-- AV18-AR01: StateView Program Development and Operations for t 09/18/2018 (version 1)
 
 
 - RAP is incorrect; should be updated to OTHER RAP (not CAST)
@@ -27,5 +28,6 @@ AWD-100275: UAF | SERVIR-Amazonia 09/01/2019 (version 0)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3OTAxMDA4MiwtMTYzNDA2NzM5Ml19
+eyJoaXN0b3J5IjpbLTE1MDMxNTAwNzksMTY3OTAxMDA4MiwtMT
+YzNDA2NzM5Ml19
 -->
