@@ -9,6 +9,7 @@
 AWD-100275: UAF | SERVIR-Amazonia 09/01/2019 (version 0)
 -- AWD-100452: UAF | Autonomous and Rigorous Photogrammetric Loca 02/18/2020 (version 0)
 -- AV18-AR01: StateView Program Development and Operations for t 09/18/2018 (version 1)
+-- AWD-100265: UAF | Automated Orthorectification of Additional H 09/07/2019 (version 0)
 
 
 - RAP is incorrect; should be updated to OTHER RAP (not CAST)
@@ -29,6 +30,6 @@ AWD-100275: UAF | SERVIR-Amazonia 09/01/2019 (version 0)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDgyNzU2NTcsMTY3OTAxMDA4MiwtMT
-YzNDA2NzM5Ml19
+eyJoaXN0b3J5IjpbLTcyODcxMDc3MSwtMTEwODI3NTY1NywxNj
+c5MDEwMDgyLC0xNjM0MDY3MzkyXX0=
 -->
